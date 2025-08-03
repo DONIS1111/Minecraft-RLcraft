@@ -1,0 +1,8 @@
+StonePlantMound,4480,4485,-1870,-1865
+ShrineSmallFire,4579,4589,-1839,-1829
+StonePlantMound2,4580,4593,-1851,-1839
+StonePlantMound4,4485,4492,-1948,-1941
+StonePlantBoulder,4380,4390,-1868,-1858
+StonePlantMound3,4393,4404,-1719,-1710
+StoneBoulder,4381,4390,-1666,-1657
+StoneLeafMound,4363,4370,-1658,-1649

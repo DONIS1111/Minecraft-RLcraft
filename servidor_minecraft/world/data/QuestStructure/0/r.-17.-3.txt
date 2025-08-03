@@ -1,0 +1,3 @@
+RLCraft_DecentSpider,-9208,-9208,-1762,-1762
+RLCraft_UndergroundRuin3,-9210,-9202,-1765,-1757
+ForestBeacon,-9216,-9208,-1896,-1888

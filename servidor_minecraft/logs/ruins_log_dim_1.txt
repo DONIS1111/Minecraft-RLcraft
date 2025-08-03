@@ -1,0 +1,35 @@
+Did not find any Building data for ./config/ruins_config/mutated_mesa_clear_rock, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mesa_clear_rock, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/jungle_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mushroom_island_shore, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/savanna_rock, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/frozen_river, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_extreme_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_redwood_taiga, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/cold_beach, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/roofed_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mesa_rock, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/ice_mountains, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_extreme_hills_with_trees, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_roofed_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_jungle, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mushroom_island, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/canyon, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/desert_defiled, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/plains_defiled, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/autumnal_wooded_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/arid_highland, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/meadow, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/glacier, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/ice_plains_defiled, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/cliffs, creating empty folder for it: failed
+
+Loading options from: /workspaces/Minecraft-RLcraft/servidor_minecraft/world/DIM1
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+anySpawnMinDistance = 0
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world ./world/DIM1, template files: 194

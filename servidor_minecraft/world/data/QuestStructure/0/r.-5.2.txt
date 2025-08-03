@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,-2583,-2583,1439,1439
+RLCraft_UndergroundRuin3,-2585,-2577,1434,1442
+StonePlantMound1,-2564,-2558,1389,1395
+RLCraft_UndergroundFarm,-2721,-2679,1329,1372
