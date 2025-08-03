@@ -1,0 +1,2 @@
+StonePlantMound2,-841,-828,-4588,-4576
+P_WitchDungeon,-784,-750,-4616,-4599

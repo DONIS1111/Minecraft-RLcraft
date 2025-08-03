@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,2494,2494,9880,9880
+RLCraft_UndergroundRuin3,2489,2497,9874,9882
+ShrineSmallWater,2484,2492,9842,9850
+IceThorn1,2461,2477,10059,10080

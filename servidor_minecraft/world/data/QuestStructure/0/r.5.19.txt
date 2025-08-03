@@ -1,0 +1,2 @@
+StoneIceBoulder1,2646,2656,9967,9977
+ShrineSmallWater,2641,2649,9822,9830

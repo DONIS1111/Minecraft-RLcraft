@@ -1,0 +1,3 @@
+ShrineSmallAir,-1925,-1917,-922,-914
+StonePlantMound4,-1800,-1793,-976,-969
+RLCraft_SmallUndergroundSkeleton,-1842,-1834,-874,-866
