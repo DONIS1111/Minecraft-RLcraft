@@ -1,86 +1,1363 @@
-[22:52:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:52:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:52:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:52:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[22:52:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[22:52:19] [main/INFO] [FML]: Searching /workspaces/Minecraft-RLcraft/servidor_minecraft/./mods for mods
-[22:52:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:52:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:52:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:52:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:52:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:52:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:52:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:52:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:52:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:52:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:52:21] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:52:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:52:24] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[22:52:24] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:52:24] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:52:24] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:52:24] [Server thread/INFO] [FML]: Config directory created successfully
-[22:52:24] [Server thread/INFO] [FML]: Searching /workspaces/Minecraft-RLcraft/servidor_minecraft/./mods for mods
-[22:52:24] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[22:52:24] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:52:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[22:52:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[22:52:25] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:52:25] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[22:52:25] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:52:25] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:52:25] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:52:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:52:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:52:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:52:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:52:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:52:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:52:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:52:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:52:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:52:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:52:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:52:25] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[22:52:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:52:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[22:52:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:52:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:52:26] [Server thread/INFO] [FML]: Applying holder lookups
-[22:52:26] [Server thread/INFO] [FML]: Holder lookups applied
-[22:52:26] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:52:26] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:52:26] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[22:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[22:52:26] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@23afad3b)
-[22:52:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[22:52:26] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[22:52:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@23afad3b)
-[22:52:27] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@23afad3b)
-[22:52:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:52:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
-[22:52:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
-[22:52:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 29%
-[22:52:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
-[22:52:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
-[22:52:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
-[22:52:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
-[22:52:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
-[22:52:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
-[22:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (10.914s)! For help, type "help" or "?"
-[22:52:37] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:52:37] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:53:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[22:53:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:53:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:53:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:53:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[22:53:17] [Server thread/INFO] [FML]: Unloading dimension 0
-[22:53:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:53:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:53:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:21:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:21:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:21:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:21:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[23:21:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[23:21:04] [main/INFO] [FML]: Searching /workspaces/Minecraft-RLcraft/servidor_minecraft/./mods for mods
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [___MixinCompat-0.8___].jar
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from `FermiumBooter-1.3.1.jar
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from BedBreakBegone-1.0.2.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in betterbiomeblend-1.12.2-1.1.7-forge.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod Better Biome Blend (fionathemortal.betterbiomeblend.core.CoreMod) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.3.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Born In A Barn V1.8-1.12-1.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod com.chocohead.biab.BornInABarn does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod Born in a Barn (com.chocohead.biab.BornInABarn) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Charm-1.12.2-1.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod svenhjol.charm.base.CharmLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod CharmLoadingPlugin (svenhjol.charm.base.CharmLoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.2.1.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from framevoidpatch-1.0.0.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64+dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ISeeDragons-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod FMLCorePlugin (io.github.xcube16.iseedragons.asm.FMLCorePlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod com.creativemd.itemphysic.ItemPatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod ItemPatchingLoader (com.creativemd.itemphysic.ItemPatchingLoader) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in librarianlib-1.12.2-4.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod com.teamwizardry.librarianlib.asm.LibLibCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod LibrarianLib Plugin (com.teamwizardry.librarianlib.asm.LibLibCorePlugin) is not signed!
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Localizator-1.12.2-1.0.13.jar
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Locks-1.12.2-3.0.0.jar
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MaterialTweaker-1.1.1.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in MultiMine-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod atomicstryker.multimine.common.fmlmagic.MMFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod MMFMLCorePlugin (atomicstryker.multimine.common.fmlmagic.MMFMLCorePlugin) is not signed!
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from particleculling-1.12.2-v1.4.1.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ReachFix-1.12.2-1.0.8.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod ReachFixPlugin (meldexun.reachfix.asm.ReachFixPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod RBLoadingPlugin (pw.prok.realbench.asm.RBLoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Reskillable-1.12.2-1.13.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod codersafterdark.reskillable.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod LoadingPlugin (codersafterdark.reskillable.base.asm.LoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RLMixins-1.2.15.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in RLTweaker-1.12.2-0.5.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod com.charles445.rltweaker.asm.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod RLTweaker ASM (com.charles445.rltweaker.asm.CoreLoader) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SimpleDifficulty-1.12.2-0.3.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod com.charles445.simpledifficulty.asm.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod SimpleDifficulty ASM (com.charles445.simpledifficulty.asm.CoreLoader) is not signed!
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SnowRealMagic-1.12.2-0.7.1.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SoManyEnchantments-0.5.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod com.Shultrea.Rin.Transformer.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod SoManyEnchantments ASM (com.Shultrea.Rin.Transformer.CoreLoader) is not signed!
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.5.3.jar
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.79.jar
+[23:21:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tnt_utilities-mc1.12-1.2.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:21:04] [main/WARN] [FML]: The coremod ljfa.tntutils.asm.TntuPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar
+[23:21:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-1.12.2-0.2.6+build50-universal.jar
+[23:21:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:21:04] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[23:21:04] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/Minecraft-RLcraft/servidor_minecraft/./mods/%5B___MixinCompat-0.8___%5D.jar Service=LaunchWrapper Env=SERVER
+[23:21:04] [main/INFO] [FermiumBooter]: FermiumBooter beginning forced mixin config handling.
+[23:21:04] [main/INFO] [FermiumBooter]: FermiumBooter finished forced mixin config handling, enqueued 0 mixin configs, removed 0 mixin configs.
+[23:21:04] [main/WARN] [FML]: The coremod FermiumBooter (fermiumbooter.FermiumPlugin) is not signed!
+[23:21:04] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[23:21:04] [main/WARN] [FML]: The coremod MixinLoader (bedbreakbegone.mixin.MixinLoader) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod MixinLoader (framevoidpatch.mixin.MixinLoader) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod LocalizatorPlugin (kameib.localizator.LocalizatorPlugin) is not signed!
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue Start!
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Mob Custom Names Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.entityname.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Boss Custom Names Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.bossoverlay.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Localized Lore Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.loclore.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Localized Written Book Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.writtenbooks.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Better Localized Name Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.locname.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Localized Biome Name Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.biomename.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Localized Writable Book Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.writablebooks.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Localized Container Name Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.containername.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Early Enqueue: (Minecraft) Entity.isInWeb Accessor for BountifulBaubles Mixins
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.core.entityaccessor.json" for early mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue Start!
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (LevelUp2) Localized Keybinds Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.levelup2.keybinds.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (RoughTweaks) Localized Names and Better Tooltip Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.roughtweaks.langkeys.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (BountifulBaubles) Tooltip fixes Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.bountifulbaubles.tooltips.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (BountifulBaubles) Ankh Charm Web Immune Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.bountifulbaubles.ankhcharmcobweb.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (BountifulBaubles) Ankh Shield Web Immune Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.bountifulbaubles.ankhshieldcobweb.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (FishingMadeBetter) Localized Fishes Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.fmb.fishes.etc.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (FishingMadeBetter) Instructions on Minigame Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.fmb.minigame.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (BattleTowers) Golem Defeated Message Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.battletowers.messages.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (RecComplex) Artifact Names Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.reccomplex.artifacts.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Callable Horses) Horse Messages Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.callablehorses.messages.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (CorpseComplex) Grave Scroll Description Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.corpsecomplex.scroll.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (ArmorUnder) Ozzy Liner text Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.armorunder.ozzyliner.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Lycanites) Client-side Translated Messages Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.lycanites.messages.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (BetterSurvival) Potion-Imbued Weapons Tooltip Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.bettersurvival.tooltip.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Neat) Health Bar Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.neat.healthbar.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (ForgottenItems) Tooltips Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.forgottenitems.descriptions.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (SereneSeasons) Localized Crop Fertility Tooltip Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.sereneseasons.tooltip.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (FML) Localized Mod List GUI Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.forge.modlist.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (SRParasites) Armor Tooltips Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.srparasites.armortooltip.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (SpartanWeaponry) Localized Material Bonus Tooltip Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.spartanweaponry.tooltip.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (T&B) Localized Ender Queen messages Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.xat.messages.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (T&B) Localized Armor Weight Tooltip Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.xat.weighttooltip.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (WAILA) Entity Name Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.waila.entityname.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (ItemPhysic) Power: Status Message Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.itemphysic.message.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (ItemPhysic) ERRORED patch Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.itemphysic.erroredpatch.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (ItemPhysic) Reverse Description Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.itemphysic.reversedescription.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (iChunUtil) Fix Patrons and Version URL Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.ichunutil.urls.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Charm) Localized Cake Name Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.charm.cakename.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Charm) Localized Composter JEI Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.charm.compostergui.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Charm) Localized Container Name Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.charm.containername.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Charm) Localized World Crates Name Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.charm.worldcratesname.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (FBP) Localized Keybinds Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.fbp.keybinds.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (ScalingHealth) Localized Keybinds Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.scalinghealth.keybinds.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (ScalingHealth) Localized Messages Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.scalinghealth.messages.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (DyamicTrees) Staff Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.dynamictrees.staff.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (SetBonus) Tooltip Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.setbonus.tooltip.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (VariedCommodities) Localized Book Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.variedcommodities.book.json" for late mixin enqueue, adding.
+[23:21:04] [main/INFO] [kameib.localizator.Localizator]: [Localizator] Late Enqueue: (Mo'Bends) Localized Keybinds Mixin
+[23:21:04] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.localizator.mobends.keybinds.json" for late mixin enqueue, adding.
+[23:21:04] [main/WARN] [FML]: The coremod MixinLoader (melonslise.locks.mixin.MixinLoader) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod MaterialTweakerPlugin (materialtweaker.MaterialTweakerPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod ParticleCullingLoadingPlugin (bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod RLMixinsPlugin (rlmixins.RLMixinsPlugin) is not signed!
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Enchantment ItemStack Damage (Vanilla/SME)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Prevent Shulker Crate Insertion (Vanilla/Charm)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: EXPERIMENTAL: Teleporting Lag Patch (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Smoothed Crouching (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Lowered Crouch (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Offhand Enchants (Vanilla/RLCombat)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Tipped Arrow Blacklist (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Zombie Curing Ticks Spawners (Vanilla/MobSpawnerControl)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Outdated Chunk Data (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Anvil Too Expensive (Vanilla/AnvilPatch)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Stop Pigmen Portal Spawning (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Chunk Entity List (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Boss Cart/Boat Cheese (Vanilla/InfernalMobs/ScalingHealth/Champions)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Enable Dragon Dismount Fix (Vanilla/IceAndFire)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: ChunkAnimator XRay (Vanilla/ChunkAnimator)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Health Desync Patch (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Mending Priorities (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Entity Tracker Desync (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Missing Particle Rendering (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Potion Amplifier Visibility (Vanilla)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: AntiWarp Handling (Vanilla/BetterSurvival)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Enchantment Item Attributes (Vanilla/SME)
+[23:21:04] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Stray/Husk Sky Spawning Fix (Vanilla)
+[23:21:04] [main/WARN] [FML]: The coremod snownee.snow.core.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:21:04] [main/WARN] [FML]: The coremod Snow! Real Magic! (snownee.snow.core.CoreMod) is not signed!
+[23:21:04] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[23:21:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:21:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:21:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:21:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [betterbiomeblend]: Found valid Mixin framework! Proceeding to load.
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:06] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[23:21:06] [main/ERROR] [mixin]: Mixin config mixins.mixincompat.json does not specify "minVersion" property
+[23:21:06] [main/INFO] [FermiumJarScanner]: FermiumJarScanner beginning jar searching.
+[23:21:06] [main/INFO] [FML]: Searching /workspaces/Minecraft-RLcraft/servidor_minecraft/./mods for mods
+[23:21:08] [main/INFO] [FermiumJarScanner]: FermiumJarScanner finished jar searching, found 190 ModIDs.
+[23:21:08] [main/INFO] [FermiumJarScanner]: FermiumMixinConfig beginning MixinConfig parsing.
+[23:21:08] [main/INFO] [FermiumJarScanner]: FermiumMixinConfig finished MixinConfig parsing, parsed 0 config options with 0 warnings
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.writablebooks.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.entityaccessor.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.loclore.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.bossoverlay.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.locname.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.containername.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.biomename.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.writtenbooks.json" for early mixin application.
+[23:21:08] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.core.entityname.json" for early mixin application.
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:21:08] [main/INFO] [Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [RLTweakerASM]: ConfigSetup is running.
+[23:21:08] [main/INFO] [RLTweakerASM]: Server Type: NONE
+[23:21:08] [main/INFO] [RLTweakerASM]: Patcher is enabled
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Concurrent Particles
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Less Collisions
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Real Bench
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Myrmex Queen Hive Spam
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Lycanites Dupe Patch
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Door Pathfinding
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Reduced Search Size
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Broadcast Sounds
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Enchant
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Aggressive Motion Checker
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Entity Breakable
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Item Frame Dupe
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Push Reaction
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Overlay Message
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Anvil Dupe Fix
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Hopper
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Old Hippocampus
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Old Gorgon
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Waystone Scroll
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Pathfinding Chunk Cache
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Chunk Ticks
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Cure Potion
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Amphithere Tame Damage
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Potion Core Resistance
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Custom Attribute Instances
+[23:21:08] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Falling Block Portal Dupe
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:21:08] [main/INFO] [ISeeDragons]: Adding Patchers
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Fix Dragon Item Lag] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Ice and Fire Axe fix] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Stop Log Spammers] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Ice and Fire Myrmex egg dupe fix] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Remove all achievements] disabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Sea Serpent Spawn Fix] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Fix Dragon Escape] disabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Hook Structure Generator] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Patch MmmMmm dummy] enabled
+[23:21:08] [main/INFO] [ISeeDragons]: ASM patcher: [Patch Statue Dupe] enabled
+[23:21:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:21:08] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:21:08] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:21:08] [main/WARN] [mixin]: Reference map 'mixins.mixincompat.refmap.json' for mixins.mixincompat.json could not be read. If this is a development environment you can ignore this message
+[23:21:09] [main/INFO] [Meson ASM]: Transforming EntityPlayer
+[23:21:09] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
+[23:21:09] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:09] [main/INFO] [Meson ASM]: Located target IINC 1 1
+[23:21:09] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:09] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.svenhjol.charm.base.CharmClassTransformer' was detected and will no longer process meta class data
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.item.EntityItemFrame
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.item.EntityItemFrame with flags MAXS
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.block.Block
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.block.Block with flags MAXS | FRAMES
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[23:21:09] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.sereneseasons.asm.transformer.WorldTransformer' was detected and will no longer process meta class data
+[23:21:09] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.lumien.bloodmoon.asm.ClassTransformer' was detected and will no longer process meta class data
+[23:21:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[23:21:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[23:21:09] [main/INFO] [LibrarianLib ASM]: Transforming World
+[23:21:09] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
+[23:21:09] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[23:21:09] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[23:21:09] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
+[23:21:09] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[23:21:09] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.World
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.World with flags MAXS
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.Entity
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.Entity with flags MAXS
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.enchantment.EnchantmentHelper
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.enchantment.EnchantmentHelper with flags MAXS
+[23:21:09] [main/INFO] [STDOUT]: [com.Shultrea.Rin.Transformer.SMEASM:transform:48]: Patching EnchantmentHelper
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[23:21:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[23:21:09] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:09] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.WorldServer
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.WorldServer with flags MAXS
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.ServerWorldEventHandler
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.ServerWorldEventHandler with flags MAXS
+[23:21:09] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.EntityLivingBase
+[23:21:09] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.EntityLivingBase with flags MAXS | FRAMES
+[23:21:09] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[23:21:10] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[23:21:10] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[23:21:10] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[23:21:10] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:10] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:10] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[23:21:10] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[23:21:10] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[23:21:10] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[23:21:10] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[23:21:10] [main/INFO] [LibrarianLib ASM]: Transforming World
+[23:21:10] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
+[23:21:10] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[23:21:10] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[23:21:10] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
+[23:21:10] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[23:21:10] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[23:21:10] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.World
+[23:21:10] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.World with flags MAXS
+[23:21:10] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[23:21:10] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[23:21:10] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[23:21:10] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:10] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:10] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[23:21:10] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:10] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:10] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.WorldServer
+[23:21:10] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.WorldServer with flags MAXS
+[23:21:10] [main/INFO] [Meson ASM]: Transforming EntityPlayer
+[23:21:10] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
+[23:21:10] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:10] [main/INFO] [Meson ASM]: Located target IINC 1 1
+[23:21:10] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:10] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.EntityLivingBase
+[23:21:10] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.EntityLivingBase with flags MAXS | FRAMES
+[23:21:10] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[23:21:10] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[23:21:10] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:10] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:10] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.potion.PotionEffect
+[23:21:10] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.potion.PotionEffect with flags MAXS | FRAMES
+[23:21:10] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[23:21:10] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[23:21:10] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:10] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:10] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:10] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[23:21:10] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:10] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[23:21:10] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:10] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:10] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.Entity
+[23:21:10] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.Entity with flags MAXS
+[23:21:10] [main/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  net.minecraft.advancements.AdvancementManager!
+[23:21:10] [main/INFO] [ISeeDragons]: Applying patch [Stop Log Spammers] 
+[23:21:10] [main/INFO] [ISeeDragons]: Writing class net.minecraft.advancements.AdvancementManager with flags None
+[23:21:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[23:21:11] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.block.Block
+[23:21:11] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.block.Block with flags MAXS | FRAMES
+[23:21:11] [main/INFO] [TNTUtils Core]: About to patch obfuscated class amp (net.minecraft.world.Explosion)
+[23:21:11] [main/INFO] [TNTUtils Core]: Successfully injected into func_77279_a(Z)V
+[23:21:11] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[23:21:11] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[23:21:11] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:11] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[23:21:11] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:11] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[23:21:11] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[23:21:11] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[23:21:11] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[23:21:11] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:11] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:11] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[23:21:11] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[23:21:11] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:11] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[23:21:11] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[23:21:11] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[23:21:11] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[23:21:11] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:11] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[23:21:11] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:11] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[23:21:11] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[23:21:11] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:11] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[23:21:11] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[23:21:11] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:11] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.item.EntityFallingBlock
+[23:21:11] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.item.EntityFallingBlock with flags MAXS | FRAMES
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[23:21:11] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[23:21:12] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [RB-Transformer]: Injecting into apr (net.minecraft.block.BlockWorkbench)
+[23:21:12] [main/INFO] [RB-Transformer]:  - ITileEntityProvider
+[23:21:12] [main/INFO] [RB-Transformer]:  - createNewTileEntity
+[23:21:12] [main/INFO] [RB-Transformer]:  - breakBlock
+[23:21:12] [main/INFO] [RB-Transformer]:  - <clinit>
+[23:21:12] [main/INFO] [RB-Transformer]:  - Done
+[23:21:12] [main/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchTile
+[23:21:12] [main/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchTile with flags MAXS | FRAMES
+[23:21:12] [main/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.asm.ASMHooks (pw.prok.realbench.asm.ASMHooks)
+[23:21:12] [main/INFO] [RB-Transformer]:  - getTile
+[23:21:12] [main/INFO] [RB-Transformer]:  - Done
+[23:21:12] [main/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.asm.ASMHooks
+[23:21:12] [main/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.asm.ASMHooks with flags MAXS | FRAMES
+[23:21:12] [main/WARN] [FML]: Potentially Dangerous alternative prefix `realbench` for name `workbench`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[23:21:12] [main/INFO] [Meson ASM]: Transforming TileEntityFurnace
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [smeltItem, func_145949_j, o] Descriptor ()V / ()V)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target ASTORE 2
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [isItemValidForSlot, func_94041_b, b] Descriptor (ILnet/minecraft/item/ItemStack;)Z / (ILaip;)Z)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target ILOAD 1
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [Meson ASM]: Transforming TileEntityBeacon
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [addEffectsToPlayers, func_146000_x, E] Descriptor ()V / ()V)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target ALOAD 9
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.tileentity.TileEntityHopper
+[23:21:12] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.tileentity.TileEntityHopper with flags MAXS
+[23:21:12] [main/INFO] [Meson ASM]: Transforming TileEntityShulkerBox
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canInsertItem, func_180462_a, a] Descriptor (ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z / (ILaip;Lnet/minecraft/util/EnumFacing;)Z)
+[23:21:12] [main/INFO] [Meson ASM]: Failed to locate the method!
+[23:21:12] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[23:21:12] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.monster.EntityMob
+[23:21:12] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.monster.EntityMob with flags MAXS
+[23:21:12] [main/INFO] [Meson ASM]: Transforming EntityWither
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canDestroyBlock, func_181033_a, a] Descriptor (Lnet/minecraft/block/Block;)Z / (Lnet/minecraft/block/Block;)Z)
+[23:21:12] [main/INFO] [Meson ASM]: Failed to locate the method!
+[23:21:12] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[23:21:12] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[23:21:12] [main/INFO] [STDOUT]: [com.Shultrea.Rin.Transformer.SMEASM:transform:54]: Patching EnchantmentProtection
+[23:21:12] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Meson ASM]: Transforming ItemToolMaterial
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getMaxUses, func_77997_a, a] Descriptor ()I / ()I)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.g : I
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEfficiency, func_77998_b, b] Descriptor ()F / ()F)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.h : F
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getAttackDamage, func_78000_c, c] Descriptor ()F / ()F)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.i : F
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getHarvestLevel, func_77996_d, d] Descriptor ()I / ()I)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.f : I
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEnchantability, func_77995_e, e] Descriptor ()I / ()I)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.j : I
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:12] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.item.EntityItemFrame
+[23:21:12] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.item.EntityItemFrame with flags MAXS
+[23:21:12] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[23:21:12] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:12] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[23:21:12] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:12] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.potion.PotionEffect
+[23:21:12] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.potion.PotionEffect with flags MAXS | FRAMES
+[23:21:12] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[23:21:12] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[23:21:12] [main/INFO] [Quark ASM]: Failed to locate the method!
+[23:21:12] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
+[23:21:12] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
+[23:21:12] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:12] [main/INFO] [Meson ASM]: Located target IFNE L0
+[23:21:12] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:13] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.ai.attributes.AttributeMap
+[23:21:13] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.ai.attributes.AttributeMap with flags MAXS | FRAMES
+[23:21:13] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.pathfinding.PathNavigate
+[23:21:13] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.pathfinding.PathNavigate with flags MAXS
+[23:21:13] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[23:21:13] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[23:21:13] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:13] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:13] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.monster.EntityMob
+[23:21:13] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.monster.EntityMob with flags MAXS
+[23:21:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[23:21:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[23:21:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[23:21:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[23:21:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[23:21:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[23:21:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[23:21:13] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.pathfinding.PathNavigate
+[23:21:13] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.pathfinding.PathNavigate with flags MAXS
+[23:21:13] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.passive.EntityVillager$ListEnchantedBookForEmeralds
+[23:21:13] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.passive.EntityVillager$ListEnchantedBookForEmeralds with flags MAXS
+[23:21:13] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[23:21:13] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[23:21:13] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:13] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[23:21:13] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:14] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[23:21:14] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[23:21:14] [main/INFO] [Quark ASM]: Located Method, patching...
+[23:21:14] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:21:14] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:21:14] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:21:14] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:21:14] [main/INFO] [Quark ASM]: Patch result: true
+[23:21:14] [main/INFO] [Meson ASM]: Transforming ContainerFurnace
+[23:21:14] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[23:21:14] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:14] [main/INFO] [Meson ASM]: Located target NEW agr
+[23:21:14] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:14] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[23:21:14] [main/INFO] [Meson ASM]: Located method, patching...
+[23:21:14] [main/INFO] [Meson ASM]: Located target INVOKESPECIAL agr.<init> (Ltv;III)V
+[23:21:14] [main/INFO] [Meson ASM]: Patch result: true
+[23:21:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[23:21:14] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[23:21:14] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[23:21:14] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[23:21:14] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[23:21:14] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.common.ForgeHooks
+[23:21:14] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.common.ForgeHooks with flags MAXS
+[23:21:14] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  net.minecraftforge.common.ForgeHooks!
+[23:21:14] [Server thread/INFO] [ISeeDragons]: Applying patch [Stop Log Spammers] 
+[23:21:14] [Server thread/INFO] [ISeeDragons]: Writing class net.minecraftforge.common.ForgeHooks with flags None
+[23:21:14] [Server thread/INFO] [FML]: Searching /workspaces/Minecraft-RLcraft/servidor_minecraft/./mods for mods
+[23:21:14] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
+[23:21:14] [Server thread/INFO] [FML]: Disabling mod betterbiomeblend it is client side only.
+[23:21:14] [Server thread/INFO] [FML]: Disabling mod betterfoliage it is client side only.
+[23:21:15] [Server thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.1
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod controlling it is client side only.
+[23:21:15] [Server thread/WARN] [FML]: Mod craftablechainmail is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod custommainmenu it is client side only.
+[23:21:15] [Server thread/WARN] [FML]: Mod dynamictreesdefiledlands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.0
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod enchdesc it is client side only.
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod fbp it is client side only.
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod googlyeyes it is client side only.
+[23:21:15] [Server thread/WARN] [FML]: Mod helpfixer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.1-1.5.18
+[23:21:15] [Server thread/INFO] [FML]: Disabling mod legendarytooltips it is client side only.
+[23:21:16] [Server thread/INFO] [FML]: Disabling mod loadingscreens it is client side only.
+[23:21:16] [Server thread/INFO] [FML]: Disabling mod mainmenuscale it is client side only.
+[23:21:16] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[23:21:16] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[23:21:16] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
+[23:21:16] [Server thread/INFO] [FML]: Disabling mod particleculling it is client side only.
+[23:21:16] [Server thread/INFO] [FML]: Mod playerbosses is missing the required element 'name'. Substituting playerbosses
+[23:21:16] [Server thread/WARN] [FML]: Mod playerbosses is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[23:21:16] [Server thread/WARN] [FML]: Mod reachfix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.8
+[23:21:17] [Server thread/INFO] [FML]: Disabling mod resourceloader it is client side only.
+[23:21:17] [Server thread/INFO] [FML]: Disabling mod soundfilters it is client side only.
+[23:21:17] [Server thread/ERROR] [FML]: Unable to read a class file correctly
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[23:21:17] [Server thread/ERROR] [FML]: There was a problem reading the entry META-INF/versions/9/module-info.class in the jar ./mods/spark-forge.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[23:21:17] [Server thread/WARN] [FML]: Zip file spark-forge.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[23:21:17] [Server thread/INFO] [FML]: Disabling mod spartanhudbaubles it is client side only.
+[23:21:17] [Server thread/INFO] [FML]: Disabling mod toastcontrol it is client side only.
+[23:21:17] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[23:21:17] [Server thread/INFO] [FML]: Disabling mod dshuds it is client side only.
+[23:21:18] [Server thread/INFO] [FML]: Forge Mod Loader has identified 163 mods to load
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for fermiumbooter: assets/fermiumbooter/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for aireducer: assets/aireducer/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for alcatrazcore: assets/alcatrazcore/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for antiquecities: assets/antiquecities/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for anvilpatch: assets/anvilpatch/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for attributefix: assets/attributefix/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for bedbreakbegone: assets/bedbreakbegone/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for bettermineshafts: assets/bettermineshafts/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for collisiondamage: assets/collisiondamage/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for contenttweaker: assets/contenttweaker/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for enhancedvisuals: assets/enhancedvisuals/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for framevoidpatch: assets/framevoidpatch/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for friendlyendermite: assets/friendlyendermite/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for fxcontrol: assets/fxcontrol/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for helpfixer: assets/helpfixer/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for incontrol: assets/incontrol/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for iseedragons: assets/iseedragons/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for itlt: assets/itlt/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for librarianliblate: assets/librarianliblate/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for materialtweaker: assets/materialtweaker/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for modtweaker: assets/modtweaker/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for mtlib: assets/mtlib/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for multimine: assets/multimine/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for playerbosses: assets/playerbosses/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for portaldupebegone: assets/portaldupebegone/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for reachfix: assets/reachfix/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for rltweaker: assets/rltweaker/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for sit: assets/sit/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for spark: assets/spark/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for surge: assets/surge/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for tschipplib: assets/tschipplib/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for xpfromharvest: assets/xpfromharvest/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for yungslaw: assets/yungslaw/lang/en_us.lang
+[23:21:18] [Server thread/WARN] [FML]: Missing English translation for phosphor-lighting: assets/phosphor-lighting/lang/en_us.lang
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file betterbiomeblend-1.12.2-1.1.7-forge.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file BetterFoliage-MC1.12-2.3.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file Born In A Barn V1.8-1.12-1.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file Controlling-3.0.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file CustomMainMenu-MC1.12.2-2.0.9.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file EnchantmentDescriptions-1.12.2-1.1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file FancyBlockParticles-1.12.x-2.4.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file GooglyEyes-1.12.2-7.1.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file LegendaryTooltips-1.12.2-1.1.9.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file LoadingScreens-1.12.2-0.3.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file MainMenuScale-1.3.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10.1-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file Neat 1.4-17.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file particleculling-1.12.2-v1.4.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file ResourceLoader-MC1.12.1-1.5.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file SoundFilters-0.12.1_for_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file SpartanHUDBaubles-1.12.2-1.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file Toast Control-1.12.2-1.8.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FML]: FML has found a non-mod file mcjtytools-0.0.21.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.scalinghealth.keybinds.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.forgottenitems.descriptions.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.variedcommodities.book.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.scalinghealth.messages.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.bountifulbaubles.tooltips.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.bettersurvival.tooltip.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.corpsecomplex.scroll.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.srparasites.armortooltip.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.charm.compostergui.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.itemphysic.message.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.fmb.fishes.etc.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.battletowers.messages.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.itemphysic.erroredpatch.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.xat.weighttooltip.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.levelup2.keybinds.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.xat.messages.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.charm.cakename.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.setbonus.tooltip.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.callablehorses.messages.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.bountifulbaubles.ankhcharmcobweb.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.ichunutil.urls.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.roughtweaks.langkeys.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.itemphysic.reversedescription.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.spartanweaponry.tooltip.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.reccomplex.artifacts.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.charm.containername.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.bountifulbaubles.ankhshieldcobweb.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.dynamictrees.staff.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.forge.modlist.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.lycanites.messages.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.armorunder.ozzyliner.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.fmb.minigame.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.charm.worldcratesname.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.sereneseasons.tooltip.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.localizator.mobends.keybinds.json" for late mixin application.
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Food Stack Size (FoodExpansion)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Enable AntiDragon Cheese (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Lycanite Render Box (LycanitesMobs)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: No Infernal Champions (Champions/InfernalMobs)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: ScalingHealth Death Desync (ScalingHealth)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Cauldron Failure Mundane (Inspirations)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Player Tracking Patch (Reskillable)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: SeedFood Bypass Lock (Reskillable)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Quark Chat Link NBT Crash (Quark)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: InF Offhand Items (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Vein Pickaxe Patch (ForgottenItems)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Flare Gun Rework (BountifulBaubles)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Vampirism Cheese Patch (BetterSurvival)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Locks Keyring GUI Dupe Patch (Locks)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Coffee Cures Hangover (Rustic/Charm)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Infernal Particle Spam (InfernalMobs)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Cancel Parasite Reach Packet (SRParasites)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: IceAndFire Render Box (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Trumpet Gluttony (BountifulBaubles/TrumpetSkeleton)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Hippogrpyh Wheat Breeding Fix (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Stoned Chicken Feather Fix (Quark/IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Overhaul SME (Vanilla/SME/RLCombat)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Config Alcohol Effects (Rustic)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Infested Summon Tag (Champions/TrinketsAndBaubles)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Mattock Breaking Patch (NoTreePunching)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Changeable Nunchaku Combo (BetterSurvival)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Champion Death Message Tweak (Champions)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Myrmex Abusable Trade Dupe (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Enable Better Dragon Bites (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Disenchanting Table Crash Patch (Disenchanter)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Replace Parasite Armor Models (SRParasites)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Quark Chest Boat Dupe (Quark)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Better Foliage Chunk XRay (BetterFoliage/ChunkAnimator)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: InF Entity Despawn Patch (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Sync Sign Edit Config (Quark)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Wyrm Osmosis (Reskillable/DefiledLands)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Remove Shield Protection Enchant (Inspirations)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Gorgon Head Offhand Abuse Patch (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: CarryOn Pig Saddle Patch (CarryOn)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Lycanite Targetting (LycanitesMobs/IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: ToolBelt Belt GUI Dupe Patch (ToolBelt)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: CorpseComplex XP Death Fix (CorpseComplex)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Rehandle Sentient Scythe Effect (SRParasites/RLCombat)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Clay Tool Enchant Patch (NoTreePunching)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Stoneling Dupe Patch (Quark)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Chat Bubble Config (DSurroundings)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: InF Bow Multishot patch (IceAndFire/BetterSurvival)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Magnetic Dupe Patch (Charm)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: InF Multipart Handling (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Half Reach (PotionCore)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Stalagnate Bowl Fix (BetterNether)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Explosion Particle Reduction (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Broken Heart Rework (BountifulBaubles/FirstAid)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Parasite Spawn Fix (SRParasites)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: ChunkAnimator XRay (Vanilla/ChunkAnimator)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Champion Potion Invis (Champions)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Parasite Cleaver Effect Config (SRParasites)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Delayed Launch (PotionCore)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Obsidian Skull/Shield Rework (BountifulBaubles)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Reskillable Indirect Self Damage Patch (Reskillable)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Enable Dragon Water Flying (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Potion Amplifier Visibility (DSHuds)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Item Reach Attribute (ItemPhysics)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: CarryOn Ungenerated Chest Patch (CarryOn)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Reforging Binding Fix (BountifulBaubles)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Tamed Mob Stone Dupe (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Education Tweak (BetterSurvival)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Undershirt Rework (Reskillable/FirstAid)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: InF Bonus Handling (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Nether Wart Soup Crash (FoodExpansion)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: HungryFarmer Blacklist (Reskillable)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Scarlite Sword Config Effect (DefiledLands)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Switchbow Quiver Patch (Switchbow)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Parasite Light Level (SRParasites)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Rain Collector Canteen Fix (SimpleDifficulty)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Dragon OverBreeding Patch (IceAndFire)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Jailer Champion Time (Champions)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Purified Rain Water (SimpleDifficulty)
+[23:21:18] [Server thread/INFO] [rlmixins.RLMixins]: RLMixins Late Loading: Prevent Revival Potion on Non-Players (PotionCore)
+[23:21:19] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.entity.EntityDragonBase!
+[23:21:19] [Server thread/INFO] [ISeeDragons]: Applying patch [Fix Dragon Item Lag] hooks into EntityDragonBase#breakBlock to spawn less items
+[23:21:19] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.entity.EntityDragonBase with flags None
+[23:21:19] [Server thread/WARN] [mixin]: Error loading class: com/github/alexthe666/iceandfire/core/ModVillagers (java.lang.ClassNotFoundException: The specified class 'com.github.alexthe666.iceandfire.core.ModVillagers' was not found)
+[23:21:19] [Server thread/WARN] [mixin]: @Mixin target com.github.alexthe666.iceandfire.core.ModVillagers was not found mixins.rlmixins.myrmextradedupe.json:icenfire.ModVillagersMixin
+[23:21:19] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.entity.EntityMyrmexEgg!
+[23:21:19] [Server thread/INFO] [ISeeDragons]: Applying patch [Ice and Fire Myrmex egg dupe fix] adds a check to if the entity is already dead
+[23:21:19] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.entity.EntityMyrmexEgg with flags None
+[23:21:19] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.event.EventLiving!
+[23:21:19] [Server thread/WARN] [mixin]: Error loading class: com/github/alexthe666/iceandfire/event/EventLiving (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer io.github.xcube16.iseedragons.asm.ISeeDragonsTransformer@5d2624fd from coremod FMLCorePlugin)
+[23:21:19] [Server thread/WARN] [mixin]: @Mixin target com.github.alexthe666.iceandfire.event.EventLiving was not found mixins.rlmixins.infmultipart.json:icenfire.EventLivingMixin
+[23:21:19] [Server thread/INFO] [RLTweakerASM]: Patch exists for com.github.alexthe666.iceandfire.entity.EntityHippocampus
+[23:21:19] [Server thread/INFO] [RLTweakerASM]: Remote check was server, skipping
+[23:21:19] [Server thread/INFO] [RLTweakerASM]: All patches for class com.github.alexthe666.iceandfire.entity.EntityHippocampus were cancelled, skipping...
+[23:21:19] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.item.ItemModAxe!
+[23:21:19] [Server thread/INFO] [ISeeDragons]: Applying patch [Ice and Fire Axe fix] Make ItemModAxe extend ItemAxe and remove EFFECTIVE_ON hard-coded list
+[23:21:19] [Server thread/ERROR] [ISeeDragons]: Failed to remove EFFECTIVE_ON field
+[23:21:19] [Server thread/INFO] [ISeeDragons]: All patches for class com.github.alexthe666.iceandfire.item.ItemModAxe were cancelled, skipping...
+[23:21:19] [Server thread/INFO] [RLTweakerASM]: Patch exists for com.tmtravlr.potioncore.PotionCoreEventHandler
+[23:21:19] [Server thread/INFO] [RLTweakerASM]: Writing class com.tmtravlr.potioncore.PotionCoreEventHandler with flags MAXS | FRAMES
+[23:21:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, ivtoolkit, foamfixcore, tnt_utilities_core, fermiumbooter, adhooks, advanced-fishing, aireducer, alcatrazcore, antiqueatlas, antiquecities, anvilpatch, aquaculture, armorunder, astikorcarts, attributefix, autoreglib, base, battletowers, baubles, bedbreakbegone, mujmajnkraftsbettersurvival, bettercaves, bettermineshafts, betternether, betterquesting, bettertabs, bloodmoon, bnbgaminglib, bountifulbaubles, bountiful, bq_msi, bqtweaker, callablehorses, carrots, carryon, champions, charm, classyhats, collisiondamage, comforts, compatskills, contenttweaker, coralreef, corpsecomplex, craftablechainmail, crafttweaker, crafttweakerjei, creativecore, defiledlands, disenchanter, dldungeonsjbg, dsurround, dynamictrees, dynamictreesdefiledlands, dttraverse, elenaidodge, enhancedvisuals, familiarfauna, fantasticlib, firstaid, fishingmadebetter, foamfix, foodexpansion, forgeendertech, forgelin, forgottenitems, framevoidpatch, friendlyendermite, fxcontrol, globalgamerules, grapplemod, helpfixer, iceandfire, ichunutil, incontrol, infernalmobs, inspirations, inventorytweaks, iseedragons, itlt, jei, levelup2, librarianliblate, librarianlib, localizator, locks, loottweaker, lostcities, lycanitesmobs, mantle, materialtweaker, mcwbridges, testdummy, mobends, modtweaker, mtlib, multimine, notreepunching, pigstep, placebo, playerbosses, portaldupebegone, potioncore, potionfingers, qualitytools, quark, reachfix, realistictorches, reborncore, reccomplex, reskillable, artifacts, bettercombatmod, rlmixins, rltweaker, roguelike, roughtweaks, ruins, rustic, scalinghealth, sereneseasons, setbonus, shieldbreak, silentlib, simpledifficulty, sit, snowrealmagic, somanyenchantments, spark, spartandefiled, spartanfire, spartanshields, spartanweaponry, spawnercontrol, srparasites, bq_standard, surge, switchbow, tnt_utilities, toolbelt, traverse, xat, trumpetskeleton, tschipplib, tumbleweed, variedcommodities, waystones, wearablebackpacks, wolfarmor, xpfromharvest, xpbook, yungslaw, phosphor-lighting, rtg, llibrary, orelib, kiwi] at CLIENT
+[23:21:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, ivtoolkit, foamfixcore, tnt_utilities_core, fermiumbooter, adhooks, advanced-fishing, aireducer, alcatrazcore, antiqueatlas, antiquecities, anvilpatch, aquaculture, armorunder, astikorcarts, attributefix, autoreglib, base, battletowers, baubles, bedbreakbegone, mujmajnkraftsbettersurvival, bettercaves, bettermineshafts, betternether, betterquesting, bettertabs, bloodmoon, bnbgaminglib, bountifulbaubles, bountiful, bq_msi, bqtweaker, callablehorses, carrots, carryon, champions, charm, classyhats, collisiondamage, comforts, compatskills, contenttweaker, coralreef, corpsecomplex, craftablechainmail, crafttweaker, crafttweakerjei, creativecore, defiledlands, disenchanter, dldungeonsjbg, dsurround, dynamictrees, dynamictreesdefiledlands, dttraverse, elenaidodge, enhancedvisuals, familiarfauna, fantasticlib, firstaid, fishingmadebetter, foamfix, foodexpansion, forgeendertech, forgelin, forgottenitems, framevoidpatch, friendlyendermite, fxcontrol, globalgamerules, grapplemod, helpfixer, iceandfire, ichunutil, incontrol, infernalmobs, inspirations, inventorytweaks, iseedragons, itlt, jei, levelup2, librarianliblate, librarianlib, localizator, locks, loottweaker, lostcities, lycanitesmobs, mantle, materialtweaker, mcwbridges, testdummy, mobends, modtweaker, mtlib, multimine, notreepunching, pigstep, placebo, playerbosses, portaldupebegone, potioncore, potionfingers, qualitytools, quark, reachfix, realistictorches, reborncore, reccomplex, reskillable, artifacts, bettercombatmod, rlmixins, rltweaker, roguelike, roughtweaks, ruins, rustic, scalinghealth, sereneseasons, setbonus, shieldbreak, silentlib, simpledifficulty, sit, snowrealmagic, somanyenchantments, spark, spartandefiled, spartanfire, spartanshields, spartanweaponry, spawnercontrol, srparasites, bq_standard, surge, switchbow, tnt_utilities, toolbelt, traverse, xat, trumpetskeleton, tschipplib, tumbleweed, variedcommodities, waystones, wearablebackpacks, wolfarmor, xpfromharvest, xpbook, yungslaw, phosphor-lighting, rtg, llibrary, orelib, kiwi] at SERVER
+[23:21:20] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[23:21:20] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
+[23:21:20] [Server thread/INFO] [Meson ASM]: Transforming BrewingRecipeRegistry
+[23:21:20] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [isValidInput, isValidInput, ] Descriptor (Lnet/minecraft/item/ItemStack;)Z / (Laip;)Z)
+[23:21:20] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:21:20] [Server thread/INFO] [Meson ASM]: Located target IF_ICMPEQ L0
+[23:21:20] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:21:21] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[23:21:21] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[23:21:21] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[23:21:21] [Server thread/INFO] [Quark ASM]: Patch result: true
+[23:21:21] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.entity.EntityDragonBase!
+[23:21:21] [Server thread/INFO] [ISeeDragons]: Applying patch [Fix Dragon Item Lag] hooks into EntityDragonBase#breakBlock to spawn less items
+[23:21:21] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.entity.EntityDragonBase with flags None
+[23:21:21] [Server thread/FATAL] [mixin]: Mixin apply failed mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin -> com.github.alexthe666.iceandfire.entity.EntityDragonBase: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException PRIVATE @Overwrite method updatePreyInMouth in mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin cannot reduce visibiliy of PROTECTED target method
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: PRIVATE @Overwrite method updatePreyInMouth in mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin cannot reduce visibiliy of PROTECTED target method
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.conformVisibility(MixinPreProcessorStandard.java:472) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachSpecialMethod(MixinPreProcessorStandard.java:445) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachOverwriteMethod(MixinPreProcessorStandard.java:406) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachMethods(MixinPreProcessorStandard.java:336) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:289) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:267) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1271) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:287) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:345) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:570) [%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:351) [%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) [%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) [%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) [%5B___MixinCompat-0.8___%5D.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) [?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) [?:1.8.0_462]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) [?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) [?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917) [?:1.8.0_462]
+	at java.lang.Class.getMethods(Class.java:1615) [?:1.8.0_462]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82) [EventBus.class:?]
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82) [AutomaticEventSubscriber.class:?]
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_462]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_462]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_462]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_462]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_462]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_462]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin] from phase [DEFAULT] in config [mixins.rlmixins.infdragonbite.json] FAILED during APPLY
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:643)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:595)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:356)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.getDeclaredMethods0(Native Method)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.privateGetPublicMethods(Class.java:2902)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.privateGetPublicMethods(Class.java:2917)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.getMethods(Class.java:1615)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[23:21:21] [Server thread/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Thread.run(Thread.java:750)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: PRIVATE @Overwrite method updatePreyInMouth in mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin cannot reduce visibiliy of PROTECTED target method
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.conformVisibility(MixinPreProcessorStandard.java:472)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachSpecialMethod(MixinPreProcessorStandard.java:445)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachOverwriteMethod(MixinPreProcessorStandard.java:406)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachMethods(MixinPreProcessorStandard.java:336)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:289)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:267)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1271)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:287)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:345)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:570)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:351)
+[23:21:21] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:635]: 	... 45 more
+[23:21:21] [Server thread/ERROR] [FML]: An error occurred trying to load an EventBusSubscriber com.github.alexthe666.iceandfire.ClientProxy for modid iceandfire
+java.lang.NoClassDefFoundError: com/github/alexthe666/iceandfire/entity/EntityDragonBase
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917) ~[?:1.8.0_462]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82) ~[EventBus.class:?]
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82) [AutomaticEventSubscriber.class:?]
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_462]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_462]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_462]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_462]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_462]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_462]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.ClassNotFoundException: com.github.alexthe666.iceandfire.entity.EntityDragonBase
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	... 38 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:364) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	... 38 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin] from phase [DEFAULT] in config [mixins.rlmixins.infdragonbite.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:643) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:595) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:356) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	... 38 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: PRIVATE @Overwrite method updatePreyInMouth in mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin cannot reduce visibiliy of PROTECTED target method
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.conformVisibility(MixinPreProcessorStandard.java:472) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachSpecialMethod(MixinPreProcessorStandard.java:445) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachOverwriteMethod(MixinPreProcessorStandard.java:406) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachMethods(MixinPreProcessorStandard.java:336) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:289) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:267) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1271) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:287) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:345) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:570) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:351) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	... 38 more
+[23:21:21] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraftforge.fml.common.LoaderException: java.lang.NoClassDefFoundError: com/github/alexthe666/iceandfire/entity/EntityDragonBase
+
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:89) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:612) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_462]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_462]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) ~[LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_462]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_462]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_462]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_462]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) ~[LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595) ~[Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.NoClassDefFoundError: com/github/alexthe666/iceandfire/entity/EntityDragonBase
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917) ~[?:1.8.0_462]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	... 31 more
+Caused by: java.lang.ClassNotFoundException: com.github.alexthe666.iceandfire.entity.EntityDragonBase
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917) ~[?:1.8.0_462]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	... 31 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:364) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917) ~[?:1.8.0_462]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	... 31 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin] from phase [DEFAULT] in config [mixins.rlmixins.infdragonbite.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:643) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:595) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:356) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917) ~[?:1.8.0_462]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	... 31 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: PRIVATE @Overwrite method updatePreyInMouth in mixins.rlmixins.infdragonbite.json:icenfire.EntityDragonBaseBiteMixin cannot reduce visibiliy of PROTECTED target method
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.conformVisibility(MixinPreProcessorStandard.java:472) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachSpecialMethod(MixinPreProcessorStandard.java:445) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachOverwriteMethod(MixinPreProcessorStandard.java:406) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attachMethods(MixinPreProcessorStandard.java:336) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:289) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:267) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1271) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:287) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:345) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:570) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:351) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[%5B___MixinCompat-0.8___%5D.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_462]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_462]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902) ~[?:1.8.0_462]
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917) ~[?:1.8.0_462]
+	at java.lang.Class.getMethods(Class.java:1615) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82) ~[forge-1.12.2-14.23.5.2860.jar:?]
+	... 31 more
+[23:21:21] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/Minecraft-RLcraft/servidor_minecraft/./crash-reports/crash-2025-08-03_23.21.21-server.txt
+[23:21:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:21:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:21:21] [Server thread/ERROR] [FML]: Skipping event FMLServerStoppedEvent and marking errored mod spartanfire since required dependency iceandfire has errored
+[23:21:21] [Server thread/INFO] [FML]: The state engine was in incorrect state PREINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[23:21:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:21:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
