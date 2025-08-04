@@ -23,3 +23,13 @@ MesoMazePath,1186,1188,-8704,-8702
 MesoMazePath,1183,1185,-8704,-8702
 RLCraft_DecentWitch,1174,1174,-8614,-8614
 RLCraft_UndergroundRuin2,1169,1176,-8619,-8609
+RLCraft_DecentWitch,1175,1175,-8367,-8367
+RLCraft_UndergroundRuin3,1169,1177,-8372,-8364
+StonePlantMound,1457,1462,-8356,-8351
+StonePlantMound2,1152,1165,-8541,-8529
+ShrineSmallFire,1194,1204,-8348,-8338
+StonePlantMound1,1484,1490,-8355,-8349
+RLCraft_DecentCaveSpider,1516,1516,-8319,-8319
+RLCraft_UndergroundRuin3,1514,1522,-8322,-8314
+StoneBoulder,1531,1540,-8312,-8303
+RLCraft_NetherPortal2_Felix,1512,1541,-8327,-8285
