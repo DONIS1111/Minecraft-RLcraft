@@ -22,9 +22,9 @@
 -6296 54 -3004 -6285 65 -2968 SunkenShip-v3.tml
 -6270 63 -3138 -6258 104 -3126 BaloonLow.tml
 -6207 74 -3710 -6204 78 -3708 SkeletonHeadStatue.tml
--6191 63 -2986 -6179 117 -2974 BaloonHigh.tml
--6191 50 -2909 -6155 69 -2898 SunkenShip-v2.tml
 -6191 35 -3085 -6165 47 -3077 shipwreck.tml
+-6191 50 -2909 -6155 69 -2898 SunkenShip-v2.tml
+-6191 63 -2986 -6179 117 -2974 BaloonHigh.tml
 -6070 63 -2983 -6039 103 -2953 CastleOcean.tml
 -6067 63 -3151 -6037 100 -3121 PirateShip.tml
 -6050 63 -2862 -6015 73 -2828 UnderwaterBase.tml
@@ -60,9 +60,9 @@
 -1826 63 -7002 -1823 69 -6998 StonePillar.tml
 -1797 70 -1023 -1785 76 -1014 VanillaVillageEmpty-p.tml
 -1776 72 -1107 -1770 77 -1103 VanillaVillageHut-p.tml
--1771 75 -6933 -1766 83 -6928 PillarBase.tml
--1771 67 -6854 -1764 72 -6849 ZombieHut.tml
 -1771 66 -925 -1754 99 -908 SpiralTree.tml
+-1771 67 -6854 -1764 72 -6849 ZombieHut.tml
+-1771 75 -6933 -1766 83 -6928 PillarBase.tml
 -1767 81 -7111 -1760 88 -7104 Outcrop.tml
 -1736 79 -7007 -1728 85 -6999 LargeStoneHouse.tml
 -1686 70 -6884 -1677 81 -6879 VanillaVillageChurch-r.tml
@@ -158,8 +158,8 @@
 7851 68 -5214 7857 74 -5206 StoneHouse.tml
 7888 63 -5439 7900 104 -5427 BaloonLow.tml
 7917 38 -5354 7943 50 -5346 shipwreck.tml
-7933 53 -5245 7944 64 -5209 SunkenShip-v3.tml
 7933 38 -5347 7941 50 -5321 shipwreck.tml
+7933 53 -5245 7944 64 -5209 SunkenShip-v3.tml
 7949 63 -5334 7961 117 -5322 BaloonHigh.tml
 8022 62 -5192 8034 84 -5180 BaloonVeryLow.tml
 8076 63 -5334 8111 73 -5300 UnderwaterBase.tml
