@@ -4,3 +4,10 @@ StonePlantBoulder,709,719,-8773,-8763
 RLCraft_DecentZombie,874,874,-8795,-8795
 RLCraft_UndergroundRuin2,869,876,-8800,-8790
 RLCraft_UndergroundFarm,977,1020,-8815,-8773
+SmallFortRuins,777,807,-8803,-8771
+StoneLeafMound,712,721,-8864,-8857
+StonePlantBoulder,890,900,-8866,-8856
+StoneLeafMound,717,726,-8918,-8911
+StonePlantMound4,901,908,-8909,-8902
+StonePlantMound2,915,927,-8917,-8904
+StoneBoulder,844,853,-8940,-8931
