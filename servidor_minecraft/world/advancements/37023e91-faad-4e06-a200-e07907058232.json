@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2025-08-04 17:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:52:25 +0000"
@@ -396,6 +402,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-04 03:47:15 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2025-08-04 17:23:09 +0000"
     },
     "done": true
   },
@@ -626,6 +638,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2025-08-04 17:23:09 +0000"
     },
     "done": true
   },
@@ -968,6 +986,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-04 05:34:39 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2025-08-04 17:23:09 +0000"
     },
     "done": true
   },
