@@ -4716,3 +4716,13 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
 [19:03:34] [Server thread/INFO] [antiqueatlas]: Created new marker #17"gui.antiqueatlas.marker.tomb TRY_KIMS"@(885, -8441)
 [19:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Baby Vespid  Lvl 2
+[19:03:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported TRY_KIMS to Donita1]
+[19:04:41] [Server thread/INFO] [antiqueatlas]: Created new marker #18"gui.antiqueatlas.marker.tomb TRY_KIMS"@(892, -8441)
+[19:04:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Baby Vespid  Lvl 2
+[19:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Baby Vespid  Lvl 2
+[19:05:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:05:51] [Server thread/INFO] [Scaling Health]: Blight Enderman was killed by TRY_KIMS
+[19:06:40] [Server thread/INFO] [antiqueatlas]: Created new marker #19"gui.antiqueatlas.marker.tomb TRY_KIMS"@(905, -8448)
+[19:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died to water while wearing an Ender Queen's Crown
+[19:06:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT

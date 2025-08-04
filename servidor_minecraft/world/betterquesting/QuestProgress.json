@@ -4209,7 +4209,13 @@
     },
     "250:10": {
       "questID:3": 250,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "5f3199fd-6670-4090-b2bc-f7f58130ab00",
+          "timestamp:4": 1754334186526
+        }
+      },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
