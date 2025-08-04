@@ -1,9 +1,3 @@
-Did not find any Building data for ./config/ruins_config/mutated_jungle_edge, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/birch_forest, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/mutated_taiga, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/mutated_birch_forest, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/snowy_coniferous_forest, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/cliffs, creating empty folder for it: failed
 
 Loading options from: /workspaces/Minecraft-RLcraft/servidor_minecraft/world/LOST
 tries_per_chunk_normal = 6

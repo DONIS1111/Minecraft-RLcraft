@@ -1,0 +1,4 @@
+StonePlantMound2,1565,1577,-8644,-8631
+StonePlantMound4,1578,1585,-8651,-8644
+StonePlantBoulder,1602,1612,-8663,-8653
+P_WitchDungeon,1558,1592,-8515,-8498

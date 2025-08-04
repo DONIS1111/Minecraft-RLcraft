@@ -1,0 +1,4 @@
+StonePlantMound1,7833,7839,-5288,-5282
+StonePlantBoulder,8023,8033,-5146,-5136
+StoneLeafMound,7820,7829,-5171,-5164
+MysticalTree,7835,7851,-5151,-5136
