@@ -1,1 +1,2 @@
 ShrineSmallWater,885,893,-8191,-8183
+WitchPillars,816,833,-8088,-8071
