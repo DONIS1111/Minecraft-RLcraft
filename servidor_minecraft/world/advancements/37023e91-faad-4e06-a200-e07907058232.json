@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "wolfarmor:husbandry/armor_up": {
+    "criteria": {
+      "wolf_equipped": "2025-08-04 06:09:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-04 05:11:35 +0000"
@@ -256,6 +262,7 @@
       "porkchop": "2025-08-04 01:14:07 +0000",
       "apple": "2025-08-04 02:31:51 +0000",
       "cooked_cod": "2025-08-04 03:48:12 +0000",
+      "bread": "2025-08-04 06:12:57 +0000",
       "cooked_salmon": "2025-08-04 05:22:47 +0000"
     },
     "done": false
