@@ -790,6 +790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-04 19:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-08-04 19:03:05 +0000"
@@ -841,6 +847,12 @@
   "defiledlands:recipes/decoration/stone_defiled_mossy": {
     "criteria": {
       "has_material": "2025-08-04 18:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-04 19:32:15 +0000"
     },
     "done": true
   },
@@ -1186,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-04 19:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 03:31:15 +0000"
@@ -1374,6 +1392,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-08-04 19:25:00 +0000",
       "swampland": "2025-08-03 23:53:39 +0000",
       "birch_forest": "2025-08-04 01:11:57 +0000",
       "deep_ocean": "2025-08-03 23:55:13 +0000",
@@ -1587,6 +1606,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-08-04 04:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-04 19:32:15 +0000"
     },
     "done": true
   },

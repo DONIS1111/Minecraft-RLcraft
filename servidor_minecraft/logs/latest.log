@@ -4761,3 +4761,75 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:23:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [19:23:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [58, -559] in dimension 0 (overworld) while populating chunk [59, -558], causing cascading worldgen lag.
 [19:23:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:23:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:25:01] [Server thread/WARN] [FML]: Quark loaded a new chunk [58, -560] in dimension 0 (overworld) while populating chunk [57, -560], causing cascading worldgen lag.
+[19:25:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:01] [Server thread/WARN] [FML]: Quark loaded a new chunk [58, -561] in dimension 0 (overworld) while populating chunk [57, -560], causing cascading worldgen lag.
+[19:25:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:01] [Server thread/WARN] [FML]: Quark loaded a new chunk [57, -561] in dimension 0 (overworld) while populating chunk [57, -560], causing cascading worldgen lag.
+[19:25:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, -551] in dimension 0 (overworld) while populating chunk [38, -551], causing cascading worldgen lag.
+[19:25:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, -552] in dimension 0 (overworld) while populating chunk [38, -551], causing cascading worldgen lag.
+[19:25:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:51] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 51 and chunkZ -561...
+[19:25:52] [Server thread/ERROR] [com.github.fnar.util.SafeRunnable]: com.github.fnar.roguelike.settings.exception.SettingsNotFoundException: No settings with id rlcraft:loot_Starter found.
+[19:25:52] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [44, -561] in dimension 0 (overworld) while populating chunk [45, -561], causing cascading worldgen lag.
+[19:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:52] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [44, -562] in dimension 0 (overworld) while populating chunk [45, -561], causing cascading worldgen lag.
+[19:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:52] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [43, -561] in dimension 0 (overworld) while populating chunk [44, -562], causing cascading worldgen lag.
+[19:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:25:52] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [43, -562] in dimension 0 (overworld) while populating chunk [44, -562], causing cascading worldgen lag.
+[19:25:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [52, -563] in dimension 0 (overworld) while populating chunk [53, -562], causing cascading worldgen lag.
+[19:26:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:26:44] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [37, -547] in dimension 0 (overworld) while populating chunk [37, -548], causing cascading worldgen lag.
+[19:26:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:44] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [37, -543] in dimension 0 (overworld) while populating chunk [37, -544], causing cascading worldgen lag.
+[19:26:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:44] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [37, -542] in dimension 0 (overworld) while populating chunk [37, -543], causing cascading worldgen lag.
+[19:26:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:44] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [37, -540] in dimension 0 (overworld) while populating chunk [37, -542], causing cascading worldgen lag.
+[19:26:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:44] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [37, -541] in dimension 0 (overworld) while populating chunk [37, -542], causing cascading worldgen lag.
+[19:26:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:44] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [36, -542] in dimension 0 (overworld) while populating chunk [37, -543], causing cascading worldgen lag.
+[19:26:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:26:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:28:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [31, -547] in dimension 0 (overworld) while populating chunk [32, -547], causing cascading worldgen lag.
+[19:28:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:28:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [32, -548] in dimension 0 (overworld) while populating chunk [32, -547], causing cascading worldgen lag.
+[19:28:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:28:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [31, -548] in dimension 0 (overworld) while populating chunk [32, -547], causing cascading worldgen lag.
+[19:28:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:29:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [27, -535] in dimension 0 (overworld) while populating chunk [28, -534], causing cascading worldgen lag.
+[19:29:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:29:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [27, -534] in dimension 0 (overworld) while populating chunk [28, -534], causing cascading worldgen lag.
+[19:29:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:29:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [26, -534] in dimension 0 (overworld) while populating chunk [28, -534], causing cascading worldgen lag.
+[19:29:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:29:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [26, -535] in dimension 0 (overworld) while populating chunk [28, -534], causing cascading worldgen lag.
+[19:29:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported TRY_KIMS to Donita1]
+[19:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Stymphalian Bird
+[19:30:24] [Thread-297/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[19:30:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[19:30:54] [Server thread/INFO] [antiqueatlas]: Created new marker #20"gui.antiqueatlas.marker.tomb TRY_KIMS"@(699, -8640)
+[19:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was pummeled by Reaper  Lvl 2
+[19:30:56] [Thread-300/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[19:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:31:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:32:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Verdant Ioray  Lvl 2
+[19:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[19:33:00] [Server thread/INFO] [antiqueatlas]: Created new marker #21"gui.antiqueatlas.marker.tomb TRY_KIMS"@(690, -8623)
+[19:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS drowned whilst trying to escape Donita1
+[19:33:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:33:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:33:32] [Server thread/INFO] [antiqueatlas]: Created new marker #22"gui.antiqueatlas.marker.tomb TRY_KIMS"@(688, -8640)
+[19:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS drowned
+[19:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
+[19:33:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:33:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]

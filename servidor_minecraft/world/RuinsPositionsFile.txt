@@ -92,10 +92,15 @@
 -525 63 7062 -513 104 7074 BaloonLow.tml
 -442 50 7015 -431 69 7051 SunkenShip-v2.tml
 -414 62 6911 -402 84 6923 BaloonVeryLow.tml
+432 63 -8555 466 73 -8520 UnderwaterBase.tml
+511 50 -8760 522 61 -8724 SunkenShip-v3.tml
+605 45 -8816 613 57 -8790 shipwreck.tml
 624 63 -8421 631 76 -8415 TP_FishingShack.tml
 637 62 -8903 645 71 -8895 LargeStoneTwoStoryHouse.tml
 682 49 -8661 718 68 -8650 SunkenShip-v2.tml
 689 63 -8655 719 103 -8624 CastleOcean.tml
+690 63 -8983 702 67 -8971 AncientFountain.tml
+703 64 -8990 720 97 -8973 SpiralTree.tml
 703 64 -8512 708 68 -8507 CaveSpiderBurrow.tml
 720 62 -8305 732 84 -8293 BaloonVeryLow.tml
 726 64 -8746 735 75 -8741 VanillaVillageChurch-r.tml
@@ -112,6 +117,7 @@
 918 64 -8420 922 72 -8416 SmallWell.tml
 924 70 -8847 932 79 -8839 LargeStoneTwoStoryHouse.tml
 924 47 -8351 950 59 -8343 shipwreck.tml
+942 97 -8930 950 107 -8922 LargeStoneHouseWBasement.tml
 979 54 -8537 990 64 -8526 BridgePilings-lg2.tml
 983 63 -8257 1013 106 -8227 SkyCastle.tml
 1001 65 -8700 1010 76 -8689 ArrowTrapTomb.tml

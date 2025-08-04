@@ -11,3 +11,11 @@ StoneLeafMound,717,726,-8918,-8911
 StonePlantMound4,901,908,-8909,-8902
 StonePlantMound2,915,927,-8917,-8904
 StoneBoulder,844,853,-8940,-8931
+StonePlantMound1,834,840,-8953,-8947
+StonePlantMound3,843,852,-8945,-8934
+StoneBoulder,856,865,-8948,-8939
+StonePlantMound2,802,814,-8961,-8948
+StonePlantBoulder,850,860,-8962,-8952
+ClayWaterMound1,900,911,-8968,-8958
+StonePlantMound4,881,888,-8973,-8966
+ForestBeacon,889,897,-8975,-8967
