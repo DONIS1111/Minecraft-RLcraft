@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-04 03:06:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-04 01:37:15 +0000"
@@ -691,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-04 03:14:57 +0000"
+    },
+    "done": true
+  },
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2025-08-04 02:32:19 +0000"
@@ -765,7 +777,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2025-08-04 02:32:47 +0000"
+      "skeleton": "2025-08-04 02:32:47 +0000",
+      "zombie": "2025-08-04 03:07:13 +0000"
     },
     "done": false
   },

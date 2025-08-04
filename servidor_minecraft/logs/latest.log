@@ -4467,3 +4467,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:02:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [03:02:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [03:02:32] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[03:06:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [Monster Hunter]
+[03:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was shot by Skeleton
+[03:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was shot by Skeleton
+[03:07:26] [Thread-251/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[03:08:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved wrongly!
+[03:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Zombie
+[03:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was burnt to a crisp whilst fighting Geist  Lvl 2
+[03:10:02] [Thread-258/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[03:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[03:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
