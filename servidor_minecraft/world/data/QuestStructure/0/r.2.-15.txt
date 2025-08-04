@@ -7,3 +7,6 @@ RLCraft_BasicSkeleton,1062,1062,-8185,-8185
 RLCraft_BasicSpider,1062,1062,-8185,-8185
 RLCraft_DecentWitch,1207,1207,-8140,-8140
 RLCraft_UndergroundRuin2,1202,1212,-8142,-8135
+StonePlantMound2,1220,1232,-8162,-8149
+SmallWoodenCottage2,1230,1238,-8100,-8092
+StonePlantMound,1234,1239,-8056,-8051

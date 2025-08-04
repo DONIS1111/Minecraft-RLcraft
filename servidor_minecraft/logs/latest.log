@@ -4952,3 +4952,70 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [20:14:13] [Server thread/INFO] [antiqueatlas]: Created new marker #37"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1036, -8205)
 [20:14:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
 [20:14:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:15:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID e49d2678-5f41-460d-9a53-97151365c303
+[20:16:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:16:11] [Server thread/INFO] [antiqueatlas]: Created new marker #11"gui.antiqueatlas.marker.tomb Donita1"@(1055, -8267)
+[20:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was shot by Stymphalian Bird
+[20:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:16:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:16:53] [Server thread/INFO] [antiqueatlas]: Created new marker #12"gui.antiqueatlas.marker.tomb Donita1"@(1064, -8269)
+[20:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
+[20:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:17:00] [Server thread/INFO] [antiqueatlas]: Created new marker #38"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1061, -8267)
+[20:17:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
+[20:17:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:17:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:17:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [Swashbuckler]
+[20:19:06] [Server thread/INFO] [antiqueatlas]: Created new marker #39"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1086, -8239)
+[20:19:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Sea Serpent
+[20:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:19:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:19:55] [Server thread/INFO] [antiqueatlas]: Created new marker #13"gui.antiqueatlas.marker.tomb Donita1"@(1079, -8247)
+[20:19:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Cyclops
+[20:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:20:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:20:36] [Server thread/INFO] [antiqueatlas]: Created new marker #40"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1098, -8245)
+[20:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Cyclops
+[20:20:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:20:57] [Server thread/INFO] [antiqueatlas]: Created new marker #14"gui.antiqueatlas.marker.tomb Donita1"@(1102, -8242)
+[20:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Cyclops
+[20:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:21:04] [Server thread/INFO] [antiqueatlas]: Created new marker #41"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1098, -8245)
+[20:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Cyclops
+[20:21:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:21:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:21:25] [Server thread/INFO] [antiqueatlas]: Created new marker #42"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1100, -8246)
+[20:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Cyclops
+[20:21:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:21:34] [Server thread/INFO] [antiqueatlas]: Created new marker #43"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1099, -8247)
+[20:21:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Cyclops
+[20:21:35] [Server thread/INFO] [antiqueatlas]: Created new marker #15"gui.antiqueatlas.marker.tomb Donita1"@(1099, -8245)
+[20:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Cyclops
+[20:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:21:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:21:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:23:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:23:37] [Server thread/INFO] [antiqueatlas]: Created new marker #44"gui.antiqueatlas.marker.tomb TRY_KIMS"@(741, -8699)
+[20:23:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
+[20:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:24:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_942_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
