@@ -115,7 +115,9 @@
 1057 74 -8623 1061 76 -8619 EmeraldOreOutcrop.tml
 1098 66 -8703 1105 70 -8696 TinyFarmField.tml
 1103 63 -8526 1115 104 -8514 BaloonLow.tml
+1133 71 -8282 1142 74 -8273 RuinedSmallFountainDiagonal.tml
 1146 69 -8355 1150 71 -8351 EmeraldOreOutcrop.tml
+1210 62 -8277 1214 70 -8273 SmallWell.tml
 1233 66 -8659 1237 72 -8656 StonePillar.tml
 1275 73 -8503 1287 118 -8491 TowerMedium.tml
 1288 71 -8346 1301 80 -8333 VolcanicVent.tml

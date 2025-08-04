@@ -97,3 +97,4 @@ RLCraft_BasicSpider,1072,1072,-8213,-8213
 RLCraft_BasicCaveSpider,1052,1052,-8193,-8193
 RLCraft_BasicCaveSpider,1072,1072,-8193,-8193
 RLCraft_MegaBattleTower_Water,1034,1090,-8231,-8175
+StonePlantMound1,1093,1099,-8285,-8279
