@@ -4833,3 +4833,33 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
 [19:33:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [19:33:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[19:34:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved wrongly!
+[19:34:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Donita1 moved wrongly!
+[19:34:40] [Server thread/INFO] [antiqueatlas]: Created new marker #23"gui.antiqueatlas.marker.tomb TRY_KIMS"@(589, -8648)
+[19:34:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was shot by Donita1
+[19:34:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was shot by Stymphalian Bird
+[19:35:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[19:35:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:35:43] [Server thread/INFO] [antiqueatlas]: Created new marker #24"gui.antiqueatlas.marker.tomb TRY_KIMS"@(600, -8618)
+[19:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
+[19:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:36:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:36:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:37:44] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[19:37:44] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[19:37:44] [Server thread/INFO] [antiqueatlas]: Sent Atlas #1 data to player Donita1
+[19:38:05] [Server thread/INFO] [antiqueatlas]: Created new marker #25"Dungeon Agua"@(597, -8629)
+[19:38:05] [Server thread/INFO] [antiqueatlas]: Created new marker #1"Bruno"@(602, -8626)
+[19:38:05] [Server thread/INFO] [antiqueatlas]: Sent markers data #1 to player Donita1
+[19:38:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:38:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:38:49] [Server thread/INFO] [antiqueatlas]: Created new marker #26"Aldea God (Ya no tan god)"@(886, -8438)
+[19:39:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:39:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:40:46] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 51 and chunkZ -510...
+[19:40:47] [Server thread/ERROR] [com.github.fnar.util.SafeRunnable]: com.github.fnar.roguelike.settings.exception.SettingsNotFoundException: No settings with id rlcraft:loot_Starter found.
+[19:41:30] [Server thread/WARN] [FML]: Quark loaded a new chunk [55, -511] in dimension 0 (overworld) while populating chunk [55, -510], causing cascading worldgen lag.
+[19:41:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:42:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[19:42:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!

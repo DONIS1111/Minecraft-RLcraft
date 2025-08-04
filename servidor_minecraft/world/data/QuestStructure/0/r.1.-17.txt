@@ -19,3 +19,4 @@ StonePlantBoulder,850,860,-8962,-8952
 ClayWaterMound1,900,911,-8968,-8958
 StonePlantMound4,881,888,-8973,-8966
 ForestBeacon,889,897,-8975,-8967
+SmallWoodenCottage1,549,560,-8874,-8868

@@ -27,3 +27,4 @@ RLCraft_UndergroundRuin1,840,849,-8357,-8348
 ShrineSmallAir,802,810,-8227,-8219
 RLCraft_DecentZombie,542,542,-8632,-8632
 RLCraft_UndergroundRuin3,537,545,-8638,-8630
+StoneBoulder,565,574,-8416,-8407
