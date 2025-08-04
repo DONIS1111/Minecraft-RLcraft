@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-08-04 02:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-04 01:23:34 +0000"
@@ -247,7 +253,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2025-08-04 01:14:07 +0000"
+      "porkchop": "2025-08-04 01:14:07 +0000",
+      "apple": "2025-08-04 02:31:51 +0000"
     },
     "done": false
   },
@@ -326,6 +333,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-08-04 02:45:04 +0000"
     },
     "done": true
   },
@@ -409,6 +422,12 @@
       "river": "2025-08-04 01:11:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-04 02:41:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
@@ -509,6 +528,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-08-04 01:10:34 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2025-08-04 02:40:23 +0000"
     },
     "done": true
   },
