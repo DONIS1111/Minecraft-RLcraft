@@ -4247,3 +4247,9 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [17:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [17:40:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [17:51:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [Diamonds!]
+[17:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [A Seedy Place]
+[17:58:18] [Server thread/INFO] [antiqueatlas]: Created new marker #13"gui.antiqueatlas.marker.tomb TRY_KIMS"@(901, -8494)
+[17:58:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Aglebemu  Lvl 2
+[17:58:20] [Thread-159/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[17:58:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[17:59:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [A Seedy Place]
