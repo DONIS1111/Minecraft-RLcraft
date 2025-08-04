@@ -33,3 +33,5 @@ RLCraft_DecentCaveSpider,1516,1516,-8319,-8319
 RLCraft_UndergroundRuin3,1514,1522,-8322,-8314
 StoneBoulder,1531,1540,-8312,-8303
 RLCraft_NetherPortal2_Felix,1512,1541,-8327,-8285
+WoodWallRemains,1082,1090,-8479,-8451
+DinosaurSkeleton,1052,1098,-8422,-8413

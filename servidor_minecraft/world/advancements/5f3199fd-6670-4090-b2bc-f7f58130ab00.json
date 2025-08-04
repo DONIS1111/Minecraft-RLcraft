@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-04 03:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2025-08-04 02:44:58 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-04 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-04 03:45:02 +0000"
     },
     "done": true
   },
@@ -323,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-04 03:45:06 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_hammer": {
     "criteria": {
       "has_stick": "2025-08-04 01:22:01 +0000"
@@ -332,6 +350,18 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-04 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-04 03:45:02 +0000"
     },
     "done": true
   },
@@ -346,6 +376,12 @@
       "has_iron_ingot": "2025-08-04 03:31:15 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-04 03:55:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -605,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-08-04 03:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 01:56:01 +0000"
@@ -614,6 +656,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-04 03:42:30 +0000"
     },
     "done": true
   },

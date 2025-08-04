@@ -2,3 +2,4 @@ StonePlantMound3,1549,1558,-8779,-8768
 StonePlantBoulder,1557,1567,-8712,-8702
 StoneBoulder,1569,1578,-8726,-8717
 StonePlantMound2,1571,1583,-8761,-8748
+StoneLeafMound,1617,1624,-8711,-8702
