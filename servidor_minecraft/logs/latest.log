@@ -4562,3 +4562,87 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:56:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Donita1 moved wrongly!
 [04:56:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Ashen Stryder  Lvl 2
 [04:56:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Ashen Stryder  Lvl 2
+[04:58:44] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[04:58:44] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[04:58:44] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player TRY_KIMS
+[04:59:11] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:59:37] [Server thread/INFO] [antiqueatlas]: Created new marker #1"Casa pocha"@(1374, -8502)
+[04:59:37] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player TRY_KIMS
+[04:59:56] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:00:35] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[05:00:35] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (6 tiles)
+[05:00:35] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player Donita1
+[05:00:35] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player Donita1
+[05:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was incinerated by a dragon
+[05:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was turned into KFC by a dragon
+[05:02:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [63, -531] in dimension 0 (overworld) while populating chunk [64, -531], causing cascading worldgen lag.
+[05:02:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:03:21] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[05:03:21] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[05:03:21] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[05:03:26] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [60, -546] in dimension 0 (overworld) while populating chunk [60, -545], causing cascading worldgen lag.
+[05:03:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:03:26] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [61, -547] in dimension 0 (overworld) while populating chunk [60, -545], causing cascading worldgen lag.
+[05:03:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:03:33] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [63, -548] in dimension 0 (overworld) while populating chunk [63, -547], causing cascading worldgen lag.
+[05:03:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:04:32] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [60, -524] in dimension 0 (overworld) while populating chunk [60, -525], causing cascading worldgen lag.
+[05:04:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:04:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:56] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:56] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:56] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:56] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:56] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [56, -529] in dimension 0 (overworld) while populating chunk [57, -528], causing cascading worldgen lag.
+[05:04:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [56, -535] in dimension 0 (overworld) while populating chunk [56, -534], causing cascading worldgen lag.
+[05:05:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:10] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:10] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [56, -526] in dimension 0 (overworld) while populating chunk [56, -527], causing cascading worldgen lag.
+[05:05:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:10] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [55, -526] in dimension 0 (overworld) while populating chunk [56, -526], causing cascading worldgen lag.
+[05:05:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:10] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [56, -526], causing cascading worldgen lag.
+[05:05:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [55, -530] in dimension 0 (overworld) while populating chunk [55, -531], causing cascading worldgen lag.
+[05:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [54, -531] in dimension 0 (overworld) while populating chunk [55, -530], causing cascading worldgen lag.
+[05:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [55, -527] in dimension 0 (overworld) while populating chunk [55, -529], causing cascading worldgen lag.
+[05:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [55, -528] in dimension 0 (overworld) while populating chunk [55, -529], causing cascading worldgen lag.
+[05:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [54, -525] in dimension 0 (overworld) while populating chunk [55, -525], causing cascading worldgen lag.
+[05:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [53, -525] in dimension 0 (overworld) while populating chunk [55, -525], causing cascading worldgen lag.
+[05:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:25] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:25] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:25] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:25] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:28] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [52, -525] in dimension 0 (overworld) while populating chunk [53, -524], causing cascading worldgen lag.
+[05:05:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:28] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [52, -524] in dimension 0 (overworld) while populating chunk [53, -524], causing cascading worldgen lag.
+[05:05:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:30] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [52, -531] in dimension 0 (overworld) while populating chunk [52, -530], causing cascading worldgen lag.
+[05:05:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:05:30] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:30] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:30] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:30] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:06:03] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:06:03] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [Best Friends Forever]

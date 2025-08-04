@@ -451,6 +451,12 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "swamp_defiled": "2025-08-04 05:03:29 +0000"
+    },
+    "done": false
+  },
   "mujmajnkraftsbettersurvival:wood_spear": {
     "criteria": {
       "has_stick": "2025-08-04 01:38:37 +0000"
@@ -796,6 +802,12 @@
     },
     "done": true
   },
+  "defiledlands:main/root": {
+    "criteria": {
+      "swamp_defiled": "2025-08-04 05:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 01:56:50 +0000"
@@ -1041,6 +1053,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 01:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-04 05:06:17 +0000"
     },
     "done": true
   }

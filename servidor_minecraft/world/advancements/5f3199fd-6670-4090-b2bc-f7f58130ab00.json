@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-04 04:58:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 03:31:15 +0000"
@@ -280,6 +286,18 @@
       "has_gravel": "2025-08-04 01:18:15 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "swamp_defiled": "2025-08-04 05:03:30 +0000"
+    },
+    "done": false
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "scuttler": "2025-08-04 05:03:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -1052,6 +1070,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-04 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "swamp_defiled": "2025-08-04 05:03:30 +0000"
     },
     "done": true
   },

@@ -35,3 +35,4 @@ StoneBoulder,1531,1540,-8312,-8303
 RLCraft_NetherPortal2_Felix,1512,1541,-8327,-8285
 WoodWallRemains,1082,1090,-8479,-8451
 DinosaurSkeleton,1052,1098,-8422,-8413
+RLCraft_SmallUndergroundSkeleton,1042,1050,-8644,-8636
