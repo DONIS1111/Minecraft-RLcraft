@@ -520,6 +520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-04 20:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-04 17:51:24 +0000"
@@ -687,6 +693,7 @@
       "skeleton": "2025-08-04 03:07:04 +0000",
       "zombie": "2025-08-04 03:06:51 +0000",
       "cave_spider": "2025-08-04 20:13:59 +0000",
+      "witch": "2025-08-04 20:46:08 +0000",
       "spider": "2025-08-04 04:03:57 +0000"
     },
     "done": false
@@ -1470,6 +1477,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-04 02:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-08-04 20:47:52 +0000"
     },
     "done": true
   },
