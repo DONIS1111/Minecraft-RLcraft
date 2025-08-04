@@ -92,6 +92,8 @@
 -525 63 7062 -513 104 7074 BaloonLow.tml
 -442 50 7015 -431 69 7051 SunkenShip-v2.tml
 -414 62 6911 -402 84 6923 BaloonVeryLow.tml
+197 62 -8574 202 65 -8567 Melonfield.tml
+300 33 -8385 326 45 -8377 shipwreck.tml
 432 63 -8555 466 73 -8520 UnderwaterBase.tml
 511 50 -8760 522 61 -8724 SunkenShip-v3.tml
 519 63 -8288 549 100 -8258 PirateShip.tml
@@ -137,6 +139,7 @@
 1196 62 -8206 1216 76 -8186 Altar.tml
 1210 62 -8277 1214 70 -8273 SmallWell.tml
 1233 66 -8659 1237 72 -8656 StonePillar.tml
+1260 68 -8111 1265 73 -8106 VanillaVillageLadder-p.tml
 1275 73 -8503 1287 118 -8491 TowerMedium.tml
 1288 71 -8346 1301 80 -8333 VolcanicVent.tml
 1297 53 -8879 1304 63 -8872 BridgePilings-sm2.tml

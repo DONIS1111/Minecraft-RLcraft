@@ -5019,3 +5019,63 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [20:24:06] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[20:24:49] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player TRY_KIMS)
+[20:25:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:25:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [18, -547] in dimension 0 (overworld) while populating chunk [19, -547], causing cascading worldgen lag.
+[20:25:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:25:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [19, -548] in dimension 0 (overworld) while populating chunk [19, -547], causing cascading worldgen lag.
+[20:25:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:25:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [18, -548] in dimension 0 (overworld) while populating chunk [19, -547], causing cascading worldgen lag.
+[20:25:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:26:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [17, -534] in dimension 0 (overworld) while populating chunk [18, -534], causing cascading worldgen lag.
+[20:26:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:26:05] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [16, -534] in dimension 0 (overworld) while populating chunk [17, -533], causing cascading worldgen lag.
+[20:26:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:26:05] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [16, -533] in dimension 0 (overworld) while populating chunk [17, -533], causing cascading worldgen lag.
+[20:26:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:26:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved wrongly!
+[20:26:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Donita1 moved wrongly!
+[20:26:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [12, -538] in dimension 0 (overworld) while populating chunk [13, -538], causing cascading worldgen lag.
+[20:26:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:26:47] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [10, -527] in dimension 0 (overworld) while populating chunk [11, -527], causing cascading worldgen lag.
+[20:26:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Siren
+[20:26:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:27:00] [Server thread/INFO] [antiqueatlas]: Created new marker #16"gui.antiqueatlas.marker.tomb Donita1"@(407, -8516)
+[20:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Stymphalian Bird
+[20:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:27:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:27:15] [Server thread/INFO] [antiqueatlas]: Created new marker #45"gui.antiqueatlas.marker.tomb TRY_KIMS"@(411, -8506)
+[20:27:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Stymphalian Bird
+[20:27:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:27:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:28:00] [Server thread/INFO] [antiqueatlas]: Created new marker #17"gui.antiqueatlas.marker.tomb Donita1"@(440, -8490)
+[20:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
+[20:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:28:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:28:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:29:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:29:26] [Server thread/WARN] [FML]: Quark loaded a new chunk [33, -514] in dimension 0 (overworld) while populating chunk [33, -515], causing cascading worldgen lag.
+[20:29:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:29:26] [Server thread/WARN] [FML]: Quark loaded a new chunk [34, -514] in dimension 0 (overworld) while populating chunk [33, -515], causing cascading worldgen lag.
+[20:29:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved wrongly!
+[20:30:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Donita1 moved wrongly!
+[20:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
+[20:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:31:39] [Server thread/INFO] [antiqueatlas]: Created new marker #18"gui.antiqueatlas.marker.tomb Donita1"@(792, -8205)
+[20:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
+[20:31:41] [Thread-429/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[20:31:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:32:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Cyclops
+[20:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:32:49] [Server thread/INFO] [antiqueatlas]: Created new marker #19"gui.antiqueatlas.marker.tomb Donita1"@(1102, -8242)
+[20:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Cyclops
+[20:32:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:32:57] [Server thread/INFO] [antiqueatlas]: Created new marker #20"gui.antiqueatlas.marker.tomb Donita1"@(1098, -8245)
+[20:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Cyclops
+[20:33:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:33:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was burnt to a crisp whilst fighting Cyclops
+[20:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
