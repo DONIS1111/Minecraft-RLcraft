@@ -4246,3 +4246,4 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [17:40:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS tried to swim in lava to escape Argus  Lvl 2
 [17:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [17:40:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[17:51:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [Diamonds!]
