@@ -4032,3 +4032,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:34:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Ningen
 [01:34:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Ningen
 [01:34:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[01:35:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set TRY_KIMS's spawn point to (1386, 60, -8601)]
+[01:35:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Set Donita1's spawn point to (1386, 60, -8603)]
+[01:37:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [Stone Age]
+[01:43:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Donita1 lost connection: Disconnected
+[01:43:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 left the game
