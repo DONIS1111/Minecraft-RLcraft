@@ -5203,3 +5203,18 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [20:54:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [20:54:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [20:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[21:20:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS lost connection: Disconnected
+[21:20:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS left the game
+[21:21:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Donita1 lost connection: Disconnected
+[21:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 left the game
+[21:21:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:21:11] [Server thread/INFO] [AUW]: Stopping DS...
+[21:21:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:21:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:21:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:21:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:21:11] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (world) to config
+[21:21:12] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:21:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:21:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:21:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
