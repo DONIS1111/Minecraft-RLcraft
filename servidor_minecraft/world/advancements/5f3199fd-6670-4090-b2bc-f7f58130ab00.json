@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-08-04 17:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-08-04 05:09:26 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:54:51 +0000"
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-04 01:22:49 +0000"
@@ -236,6 +254,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-04 05:11:42 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_nunchaku": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
     },
     "done": true
   },
@@ -507,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-04 01:37:15 +0000"
@@ -534,6 +564,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-04 04:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
     },
     "done": true
   },
@@ -687,6 +723,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-04 01:31:39 +0000"
@@ -703,9 +751,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 01:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-08-04 17:33:15 +0000"
     },
     "done": true
   },
@@ -733,9 +793,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-04 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
     },
     "done": true
   },
@@ -841,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2025-08-04 02:54:50 +0000"
@@ -850,6 +928,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:54:51 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
     },
     "done": true
   },
@@ -1117,6 +1201,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-08-04 02:06:21 +0000"
@@ -1192,6 +1282,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-04 04:10:19 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
     },
     "done": true
   },
@@ -1410,6 +1506,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-08-04 04:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-04 17:33:03 +0000"
     },
     "done": true
   },
