@@ -5205,3 +5205,18 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_462]
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
+[06:30:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS lost connection: Disconnected
+[06:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS left the game
+[06:30:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Donita1 lost connection: Disconnected
+[06:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 left the game
+[06:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[06:30:37] [Server thread/INFO] [AUW]: Stopping DS...
+[06:30:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:30:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:30:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:30:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[06:30:37] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (world) to config
+[06:30:37] [Server thread/INFO] [FML]: Unloading dimension 0
+[06:30:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:30:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:30:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
