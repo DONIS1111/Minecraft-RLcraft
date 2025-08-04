@@ -5,3 +5,5 @@ RLCraft_GoodWitherSkeleton,1062,1062,-8185,-8185
 RLCraft_DecentZombie,1062,1062,-8185,-8185
 RLCraft_BasicSkeleton,1062,1062,-8185,-8185
 RLCraft_BasicSpider,1062,1062,-8185,-8185
+RLCraft_DecentWitch,1207,1207,-8140,-8140
+RLCraft_UndergroundRuin2,1202,1212,-8142,-8135

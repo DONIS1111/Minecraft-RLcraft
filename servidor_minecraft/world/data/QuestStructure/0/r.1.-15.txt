@@ -1,2 +1,4 @@
 ShrineSmallWater,885,893,-8191,-8183
 WitchPillars,816,833,-8088,-8071
+StonePlantMound1,828,834,-8064,-8058
+StoneLeafMound,812,819,-8061,-8052
