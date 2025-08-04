@@ -4697,3 +4697,22 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [18:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported TRY_KIMS to Donita1]
 [18:41:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
 [18:41:18] [Thread-218/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[18:56:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [Take Aim, Chaps!]
+[18:56:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: The Swarm In Dimension: 0 Duration: 60secs
+[18:57:21] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: The Swarm
+[18:58:06] [Server thread/INFO] [antiqueatlas]: Created new marker #14"gui.antiqueatlas.marker.tomb TRY_KIMS"@(884, -8444)
+[18:58:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Baby Vespid  Lvl 2
+[18:58:09] [Thread-243/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[18:58:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[18:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported TRY_KIMS to Donita1]
+[18:59:56] [Server thread/INFO] [antiqueatlas]: Created new marker #15"gui.antiqueatlas.marker.tomb TRY_KIMS"@(884, -8441)
+[18:59:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was burnt to a crisp whilst fighting Ashen Vespid  Lvl 10
+[19:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 burned to death
+[19:00:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:02:29] [Server thread/INFO] [antiqueatlas]: Created new marker #16"gui.antiqueatlas.marker.tomb TRY_KIMS"@(885, -8443)
+[19:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Baby Vespid  Lvl 2
+[19:02:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Baby Vespid  Lvl 2
+[19:03:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
+[19:03:34] [Server thread/INFO] [antiqueatlas]: Created new marker #17"gui.antiqueatlas.marker.tomb TRY_KIMS"@(885, -8441)
+[19:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Baby Vespid  Lvl 2
