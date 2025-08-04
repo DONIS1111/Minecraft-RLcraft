@@ -291,6 +291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-08-04 17:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 03:31:33 +0000"
@@ -761,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-08-04 17:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-04 01:52:25 +0000"
@@ -1194,6 +1206,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/iron_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-08-04 17:02:53 +0000"
     },
     "done": true
   },

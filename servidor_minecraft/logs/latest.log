@@ -4044,3 +4044,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [16:59:09] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
 [16:59:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported TRY_KIMS to Donita1]
 [16:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TRY_KIMS> wa wawwaawa
+[17:02:43] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[17:02:43] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[17:02:43] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[17:02:43] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[17:02:43] [Server thread/INFO] [Meson ASM]: Patch result: true
+[17:10:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Geonach  Lvl 2
+[17:10:19] [Thread-79/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[17:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
