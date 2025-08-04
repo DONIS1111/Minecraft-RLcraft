@@ -4183,3 +4183,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:10:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was pummeled by Pixen
 [02:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was turned into KFC by a dragon
 [02:11:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was struck by lightning
+[02:16:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved wrongly!
+[02:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Stryder
+[02:16:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Stryder
+[02:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was pummeled by Jengu
+[02:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was burnt to a crisp whilst fighting Zombie
+[02:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Violet Chupacabra
+[02:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Violet Chupacabra
+[02:22:43] [Thread-178/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[02:24:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Geonach
