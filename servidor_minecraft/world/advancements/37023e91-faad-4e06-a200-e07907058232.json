@@ -1050,6 +1050,12 @@
     },
     "done": true
   },
+  "reskillable:main/attack_5": {
+    "criteria": {
+      "level_up": "2025-08-04 18:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 01:18:20 +0000"
