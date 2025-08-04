@@ -1,0 +1,7 @@
+RLCraft_GreatVex,1062,1062,-8185,-8185
+RLCraft_GreatVindicator,1062,1062,-8185,-8185
+RLCraft_GoodWitherSkeleton,1062,1062,-8185,-8185
+RLCraft_GoodWitherSkeleton,1062,1062,-8185,-8185
+RLCraft_DecentZombie,1062,1062,-8185,-8185
+RLCraft_BasicSkeleton,1062,1062,-8185,-8185
+RLCraft_BasicSpider,1062,1062,-8185,-8185

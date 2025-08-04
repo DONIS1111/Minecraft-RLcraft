@@ -24,3 +24,4 @@ VillageTriplets,846,860,-8373,-8359
 P_Village2Story,839,852,-8410,-8404
 RLCraft_BasicWitch,843,843,-8354,-8354
 RLCraft_UndergroundRuin1,840,849,-8357,-8348
+ShrineSmallAir,802,810,-8227,-8219
