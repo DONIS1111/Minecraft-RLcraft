@@ -4931,3 +4931,14 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:52:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [19:53:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [19:53:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[19:54:54] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Donita1)
+[19:56:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has completed the challenge [Great View From Up Here]
+[19:56:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[20:00:57] [Server thread/INFO] [antiqueatlas]: Created new marker #9"gui.antiqueatlas.marker.tomb Donita1"@(991, -8231)
+[20:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was shot by Skeleton
+[20:00:59] [Thread-365/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[20:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[20:01:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:03:55] [Server thread/INFO] [antiqueatlas]: Created new marker #36"gui.antiqueatlas.marker.tomb TRY_KIMS"@(986, -8241)
+[20:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
+[20:03:57] [Thread-371/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
