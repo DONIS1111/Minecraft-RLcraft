@@ -4477,3 +4477,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:10:02] [Thread-258/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
 [03:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [03:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Donita1
+[03:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [Attack!]
+[03:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [Acquire Hardware]
+[03:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [Acquire Hardware]
+[03:32:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from parasites
