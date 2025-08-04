@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-04 03:59:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-08-04 01:52:25 +0000"
@@ -478,6 +484,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-08-04 02:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-04 03:59:44 +0000"
     },
     "done": true
   },
@@ -847,7 +859,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-08-04 03:07:04 +0000",
-      "zombie": "2025-08-04 03:06:51 +0000"
+      "zombie": "2025-08-04 03:06:51 +0000",
+      "spider": "2025-08-04 04:03:57 +0000"
     },
     "done": false
   },
