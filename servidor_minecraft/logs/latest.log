@@ -4679,3 +4679,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:22:35] [Server thread/INFO] [antiqueatlas]: Created new marker #3"gui.antiqueatlas.marker.tomb TRY_KIMS"@(884, -8446)
 [05:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Azure Ningen  Lvl 2
 [05:23:11] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:28:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died
+[05:28:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Killed TRY_KIMS]
+[05:28:09] [Thread-493/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[05:29:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[05:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died
+[05:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Killed TRY_KIMS]
+[05:30:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died
+[05:30:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Killed TRY_KIMS]
+[05:30:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[05:32:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died
+[05:32:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Killed TRY_KIMS]
+[05:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported Donita1 to TRY_KIMS]
+[05:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [Isn't It Iron Pick]
