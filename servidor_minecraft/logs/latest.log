@@ -4340,3 +4340,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:59:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [04:59:50] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
 [05:03:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[05:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[05:11:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[05:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
