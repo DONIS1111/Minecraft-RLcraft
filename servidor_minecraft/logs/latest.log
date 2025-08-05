@@ -4379,3 +4379,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:51:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [06:52:03] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [06:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from hypothermia
+[06:55:36] [Server thread/INFO] [antiqueatlas]: Created new marker #69"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1163, -8476)
+[06:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[06:55:48] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[06:57:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from hypothermia
+[06:57:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[06:59:43] [Server thread/INFO] [antiqueatlas]: Created new marker #70"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1173, -8492)
+[06:59:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[07:00:18] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:02:55] [Server thread/INFO] [antiqueatlas]: Created new marker #71"gui.antiqueatlas.marker.tomb TRY_KIMS"@(619, -8450)
+[07:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[07:03:18] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:05:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from hypothermia
+[07:06:21] [Server thread/INFO] [antiqueatlas]: Created new marker #72"gui.antiqueatlas.marker.tomb TRY_KIMS"@(617, -8449)
+[07:06:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[07:07:03] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:09:54] [Server thread/INFO] [antiqueatlas]: Created new marker #73"gui.antiqueatlas.marker.tomb TRY_KIMS"@(608, -8440)
+[07:09:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[07:09:56] [Thread-269/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[07:10:03] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:12:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from hypothermia
+[07:13:43] [Server thread/INFO] [antiqueatlas]: Created new marker #74"gui.antiqueatlas.marker.tomb TRY_KIMS"@(560, -8484)
+[07:13:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[07:13:48] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
