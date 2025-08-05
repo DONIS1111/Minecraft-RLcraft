@@ -4410,3 +4410,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [07:23:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from hypothermia
 [07:23:33] [Thread-293/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
 [07:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[07:25:47] [Server thread/INFO] [antiqueatlas]: Created new marker #76"gui.antiqueatlas.marker.tomb TRY_KIMS"@(886, -8438)
+[07:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[07:25:48] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:28:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from hypothermia
+[07:28:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS lost connection: Disconnected
+[07:28:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS left the game
+[07:28:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Donita1 lost connection: Disconnected
+[07:28:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 left the game
+[07:28:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[07:28:45] [Server thread/INFO] [AUW]: Stopping DS...
+[07:28:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:28:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[07:28:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[07:28:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[07:28:45] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (world) to config
+[07:28:45] [Server thread/INFO] [FML]: Unloading dimension 0
+[07:28:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:28:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[07:28:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
