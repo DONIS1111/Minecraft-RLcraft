@@ -4357,3 +4357,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Krake  Lvl 3
 [06:13:06] [Thread-179/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
 [06:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[06:17:32] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[06:17:32] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (19 tiles)
+[06:17:32] [Server thread/INFO] [antiqueatlas]: Sent Atlas #1 data to player Donita1
+[06:17:32] [Server thread/INFO] [antiqueatlas]: Sent markers data #1 to player Donita1
+[06:17:33] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:20:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
