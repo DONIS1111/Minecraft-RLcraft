@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "spartanweaponry:hammer": {
+    "criteria": {
+      "craft": "2025-08-05 23:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-04 01:56:01 +0000"

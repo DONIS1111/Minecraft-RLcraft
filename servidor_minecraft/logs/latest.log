@@ -3897,3 +3897,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:58:11] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [22:58:11] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [22:58:11] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[23:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 died from hypothermia
+[23:02:53] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[23:02:53] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[23:02:53] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:02:53] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[23:02:53] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [Hammer Time!]
