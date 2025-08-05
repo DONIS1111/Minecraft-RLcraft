@@ -4364,3 +4364,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:17:33] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [06:20:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [06:28:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[06:39:49] [Server thread/INFO] [antiqueatlas]: Created new marker #66"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1035, -8458)
+[06:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
+[06:39:52] [Thread-216/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[06:40:03] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:44:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved wrongly!
+[06:44:53] [Server thread/INFO] [antiqueatlas]: Created new marker #67"gui.antiqueatlas.marker.tomb TRY_KIMS"@(884, -8438)
+[06:44:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hypothermia
