@@ -3904,3 +3904,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:02:53] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [23:02:53] [Server thread/INFO] [Meson ASM]: Patch result: true
 [23:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [Hammer Time!]
+[23:15:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by Eechetik  Lvl 2
+[23:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
