@@ -3895,3 +3895,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:09:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
 [04:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set Donita1's game mode to Survival Mode]
 [04:31:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
+[04:42:03] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
+[04:42:03] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
+[04:42:03] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
