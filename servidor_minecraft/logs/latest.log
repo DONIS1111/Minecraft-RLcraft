@@ -3893,3 +3893,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:09:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set Donita1's game mode to Creative Mode]
 [04:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set Donita1's game mode to Creative Mode]
 [04:09:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
+[04:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set Donita1's game mode to Survival Mode]
+[04:31:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
