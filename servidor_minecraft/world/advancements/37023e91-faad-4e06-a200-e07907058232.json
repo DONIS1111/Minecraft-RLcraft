@@ -1078,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-08-06 00:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-04 01:55:58 +0000"

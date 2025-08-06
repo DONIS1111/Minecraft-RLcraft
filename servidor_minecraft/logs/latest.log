@@ -19,3 +19,9 @@
 [00:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
 [00:02:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
 [00:03:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Game rule randomTickSpeed has been updated to 30]
+[00:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
+[00:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
+[00:20:05] [Server thread/INFO] [antiqueatlas]: Created new marker #81"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1026, -8493)
+[00:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Geonach  Lvl 3
+[00:20:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[00:20:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
