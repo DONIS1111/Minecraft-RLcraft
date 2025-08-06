@@ -4102,3 +4102,11 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [05:11:09] [Server thread/INFO] [antiqueatlas]: Created new marker #98"gui.antiqueatlas.marker.tomb TRY_KIMS"@(891, -8459)
 [05:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was shot by Skeleton
 [05:11:13] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS has made the advancement [A Gift from the Fire Gods]
+[05:20:10] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [64, -568] in dimension 0 (overworld) while populating chunk [65, -567], causing cascading worldgen lag.
+[05:20:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:21:52] [Server thread/INFO] [antiqueatlas]: Created new marker #99"gui.antiqueatlas.marker.tomb TRY_KIMS"@(993, -8892)
+[05:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Twisted Shambler
+[05:21:57] [Thread-145/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[05:22:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[05:22:28] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT

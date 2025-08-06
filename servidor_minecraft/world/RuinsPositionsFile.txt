@@ -142,8 +142,10 @@
 979 54 -8537 990 64 -8526 BridgePilings-lg2.tml
 983 63 -8257 1013 106 -8227 SkyCastle.tml
 1001 65 -8700 1010 76 -8689 ArrowTrapTomb.tml
+1016 70 -8949 1024 76 -8941 ShortTower.tml
 1026 52 -8349 1062 63 -8338 SunkenShip-v3.tml
 1057 74 -8623 1061 76 -8619 EmeraldOreOutcrop.tml
+1089 75 -8976 1094 83 -8971 PillarBase.tml
 1098 66 -8703 1105 70 -8696 TinyFarmField.tml
 1103 63 -8526 1115 104 -8514 BaloonLow.tml
 1109 36 -8157 1116 46 -8150 BridgePilings-sm2.tml

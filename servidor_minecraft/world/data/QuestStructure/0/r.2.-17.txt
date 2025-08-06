@@ -232,3 +232,5 @@ MesoMazePath,1165,1167,-8728,-8726
 MesoMazePagoda,1153,1200,-8749,-8702
 SmallWoodenCottage2,1461,1469,-8851,-8843
 ShrineSmallFire,1025,1035,-8833,-8823
+StonePlantMound3,1087,1096,-8967,-8956
+StoneBoulder,1106,1115,-8993,-8984

@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "defiledlands:main/hephaestite": {
+    "criteria": {
+      "hephaestite": "2025-08-06 05:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-04 01:22:01 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2025-08-06 05:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-04 17:33:03 +0000"
@@ -320,6 +332,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-08-04 06:03:30 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/torch_hephaestite": {
+    "criteria": {
+      "has_material": "2025-08-06 05:17:44 +0000"
     },
     "done": true
   },
@@ -441,6 +459,12 @@
   "spartanweaponry:hammer": {
     "criteria": {
       "craft": "2025-08-05 23:06:46 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/hephaestite_block_uncraft": {
+    "criteria": {
+      "has_material": "2025-08-06 05:18:18 +0000"
     },
     "done": true
   },
@@ -585,6 +609,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2025-08-06 05:17:32 +0000"
     },
     "done": true
   },
@@ -991,6 +1021,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2025-08-06 05:17:32 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2025-08-04 01:24:56 +0000"
@@ -1351,6 +1387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-08-06 05:17:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:saber": {
     "criteria": {
       "craft": "2025-08-04 20:18:59 +0000"
@@ -1459,6 +1501,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/hephaestite_block": {
+    "criteria": {
+      "has_material": "2025-08-06 05:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-08-04 05:09:15 +0000"
@@ -1546,6 +1594,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-04 05:53:54 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2025-08-06 05:17:32 +0000"
     },
     "done": true
   },
@@ -1754,6 +1808,12 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2025-08-05 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/blastem_fruit_blazing": {
+    "criteria": {
+      "has_material": "2025-08-06 05:17:44 +0000"
     },
     "done": true
   },
