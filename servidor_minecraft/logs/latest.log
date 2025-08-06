@@ -4542,3 +4542,15 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [06:13:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [06:13:24] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [06:13:24] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:13:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [79, -564] in dimension 0 (overworld) while populating chunk [80, -563], causing cascading worldgen lag.
+[06:13:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:13:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [80, -564] in dimension 0 (overworld) while populating chunk [80, -563], causing cascading worldgen lag.
+[06:13:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was shot by Stymphalian Bird
+[06:13:58] [Thread-222/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[06:14:19] [Server thread/INFO] [antiqueatlas]: Created new marker #103"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1170, -8863)
+[06:14:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was shot by Stymphalian Bird
+[06:14:59] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[06:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set Donita1's game mode to Creative Mode]
+[06:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Set own game mode to Survival Mode]
