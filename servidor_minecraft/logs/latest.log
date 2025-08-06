@@ -4512,3 +4512,15 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [05:51:51] [Server thread/INFO] [antiqueatlas]: Created new marker #100"gui.antiqueatlas.marker.tomb TRY_KIMS"@(804, -8718)
 [05:51:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Book Wyrm
 [05:52:29] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:56:31] [Server thread/INFO] [antiqueatlas]: Created new marker #101"Avr"@(1019, -8754)
+[05:56:59] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:57:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
+[05:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[05:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
+[05:59:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
+[05:59:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[06:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
+[06:02:32] [Server thread/INFO] [antiqueatlas]: Created new marker #102"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1072, -8716)
+[06:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was burnt to a crisp whilst fighting Afrit  Lvl 2
+[06:02:35] [Thread-205/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[06:02:59] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
