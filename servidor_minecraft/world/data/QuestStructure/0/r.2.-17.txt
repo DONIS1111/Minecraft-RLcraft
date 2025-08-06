@@ -234,3 +234,5 @@ SmallWoodenCottage2,1461,1469,-8851,-8843
 ShrineSmallFire,1025,1035,-8833,-8823
 StonePlantMound3,1087,1096,-8967,-8956
 StoneBoulder,1106,1115,-8993,-8984
+StoneLeafMound,1220,1229,-8951,-8944
+StonePlantMound4,1166,1173,-8979,-8972
