@@ -1,0 +1,4 @@
+UndergroundCrypt,854,868,-9233,-9205
+BrickHenge,615,631,-9255,-9239
+P_WitchDungeon,634,651,-9280,-9246
+SmallWoodenCottage2,585,593,-9293,-9285

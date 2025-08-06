@@ -20,3 +20,15 @@ ClayWaterMound1,900,911,-8968,-8958
 StonePlantMound4,881,888,-8973,-8966
 ForestBeacon,889,897,-8975,-8967
 SmallWoodenCottage1,549,560,-8874,-8868
+RLCraft_BasicCaveSpider,743,743,-8999,-8999
+RLCraft_UndergroundRuin1,740,749,-9005,-8996
+StoneLeafMound,932,939,-8991,-8982
+RLCraft_DecentCaveSpider,692,692,-9081,-9081
+RLCraft_UndergroundRuin3,689,697,-9083,-9075
+StonePlantMound3,838,849,-9106,-9097
+StonePlantMound2,927,940,-9110,-9098
+MeteorSite,722,752,-9144,-9129
+RLCraft_DecentCaveSpider,684,684,-9143,-9143
+RLCraft_UndergroundRuin2,679,689,-9145,-9138
+StonePlantMound2,550,562,-8981,-8968
+StonePlantMound3,866,877,-9210,-9201
