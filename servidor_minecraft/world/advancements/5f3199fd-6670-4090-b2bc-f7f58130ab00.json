@@ -1171,6 +1171,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2025-08-06 05:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-04 01:18:15 +0000"

@@ -4504,3 +4504,11 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
 [05:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Darkling  Lvl 2
+[05:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Kobold  Lvl 3
+[05:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[05:44:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 has made the advancement [A Gift from the Fire Gods]
+[05:49:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Book Wyrm
+[05:50:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Donita1> ni que no tuviera audifonos
+[05:51:51] [Server thread/INFO] [antiqueatlas]: Created new marker #100"gui.antiqueatlas.marker.tomb TRY_KIMS"@(804, -8718)
+[05:51:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was slain by Book Wyrm
+[05:52:29] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
