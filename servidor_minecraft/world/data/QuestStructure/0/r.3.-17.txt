@@ -3,3 +3,5 @@ StonePlantBoulder,1557,1567,-8712,-8702
 StoneBoulder,1569,1578,-8726,-8717
 StonePlantMound2,1571,1583,-8761,-8748
 StoneLeafMound,1617,1624,-8711,-8702
+P_SkyCastle,1564,1605,-8801,-8760
+ShrineSmallEarth,1606,1618,-8825,-8813
