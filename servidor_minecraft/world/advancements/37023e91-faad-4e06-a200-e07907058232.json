@@ -429,7 +429,8 @@
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
       "desert_defiled": "2025-08-09 00:42:36 +0000",
-      "swamp_defiled": "2025-08-04 05:03:29 +0000"
+      "swamp_defiled": "2025-08-04 05:03:29 +0000",
+      "plains_defiled": "2025-08-09 02:04:46 +0000"
     },
     "done": false
   },
