@@ -1,1 +1,16 @@
 StonePlantMound,2068,2073,-8686,-8681
+VillageWoodMill,2317,2333,-8489,-8476
+P_Village2Story,2297,2310,-8458,-8452
+ShrineSmallAir,2384,2392,-8568,-8560
+P_VillageFarmhouse,2294,2306,-8448,-8436
+VillageMarketplace,2317,2331,-8455,-8441
+ThreeTowers,2256,2288,-8435,-8404
+SeasonsGreenhouse,2317,2327,-8437,-8425
+BrickHenge,2391,2407,-8399,-8383
+SmallWoodenCottage2,2407,2415,-8525,-8517
+RLCraft_BasicSpider,2388,2388,-8289,-8289
+RLCraft_UndergroundRuin1,2385,2394,-8295,-8286
+RLCraft_DecentSkeleton,2468,2468,-8455,-8455
+RLCraft_UndergroundRuin3,2465,2473,-8461,-8453
+ShrineSmallAir,2478,2486,-8615,-8607
+UndergroundTreeoid,2496,2519,-8579,-8553
