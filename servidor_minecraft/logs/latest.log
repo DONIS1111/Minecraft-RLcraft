@@ -276,3 +276,129 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [01:01:17] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [158, -555] in dimension 0 (overworld) while populating chunk [158, -556], causing cascading worldgen lag.
 [01:01:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [01:01:22] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 2568 | -8792 ], underground: true
+[01:05:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was pummeled by Ioray  Lvl 2
+[01:05:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Donita1 moved wrongly!
+[01:05:13] [Server thread/INFO] [antiqueatlas]: Created new marker #37"gui.antiqueatlas.marker.tomb Donita1"@(2427, -8738)
+[01:05:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was pummeled by Ioray  Lvl 2
+[01:05:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:05:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[01:05:46] [Thread-171/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[01:05:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[01:06:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[01:07:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved wrongly!
+[01:08:30] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 153 and chunkZ -561...
+[01:08:31] [Server thread/ERROR] [com.github.fnar.util.SafeRunnable]: com.github.fnar.roguelike.settings.exception.SettingsNotFoundException: No settings with id rlcraft:loot_Starter found.
+[01:08:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [169, -539] in dimension 0 (overworld) while populating chunk [168, -539], causing cascading worldgen lag.
+[01:08:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [167, -563] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [169, -562] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [169, -563] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [168, -563] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [170, -562] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [170, -563] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 2] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [2, 2] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 2] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [2, 1] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 1] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [2, 0] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 0] in dimension 0 (overworld) while populating chunk [168, -562], causing cascading worldgen lag.
+[01:09:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of TRY_KIMS) moved too quickly! 6.369431331922442,0.0,-8.18743609840567
+[01:09:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of TRY_KIMS) moved too quickly! 6.651323298262923,0.0,-8.46824775636378
+[01:09:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of TRY_KIMS) moved too quickly! 6.936484267723245,0.0,-8.745684132396491
+[01:09:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of TRY_KIMS) moved too quickly! 7.224738340830754,0.0,-9.01988926692502
+[01:09:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [164, -565] in dimension 0 (overworld) while populating chunk [165, -564], causing cascading worldgen lag.
+[01:09:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [165, -565] in dimension 0 (overworld) while populating chunk [165, -564], causing cascading worldgen lag.
+[01:09:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [178, -565] in dimension 0 (overworld) while populating chunk [179, -564], causing cascading worldgen lag.
+[01:09:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [182, -549] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [181, -547] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:42] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [182, -547] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:42] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [182, -548] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:42] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:42] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:42] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 1] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:42] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 0] in dimension 0 (overworld) while populating chunk [181, -548], causing cascading worldgen lag.
+[01:09:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:52] [Server thread/WARN] [FML]: Quark loaded a new chunk [187, -548] in dimension 0 (overworld) while populating chunk [186, -547], causing cascading worldgen lag.
+[01:09:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:52] [Server thread/WARN] [FML]: Quark loaded a new chunk [187, -547] in dimension 0 (overworld) while populating chunk [186, -547], causing cascading worldgen lag.
+[01:09:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:09:58] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [189, -547] in dimension 0 (overworld) while populating chunk [189, -548], causing cascading worldgen lag.
+[01:09:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:04] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [191, -557] in dimension 0 (overworld) while populating chunk [191, -556], causing cascading worldgen lag.
+[01:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:04] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [191, -558] in dimension 0 (overworld) while populating chunk [191, -556], causing cascading worldgen lag.
+[01:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:05] [Server thread/WARN] [FML]: Quark loaded a new chunk [192, -548] in dimension 0 (overworld) while populating chunk [191, -548], causing cascading worldgen lag.
+[01:10:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [194, -549] in dimension 0 (overworld) while populating chunk [193, -548], causing cascading worldgen lag.
+[01:10:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:12] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [196, -563] in dimension 0 (overworld) while populating chunk [195, -563], causing cascading worldgen lag.
+[01:10:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:17] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [184, -567] in dimension 0 (overworld) while populating chunk [185, -567], causing cascading worldgen lag.
+[01:10:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:17] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [184, -568] in dimension 0 (overworld) while populating chunk [185, -567], causing cascading worldgen lag.
+[01:10:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:17] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [185, -568] in dimension 0 (overworld) while populating chunk [185, -567], causing cascading worldgen lag.
+[01:10:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [203, -568] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [202, -568] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [203, -566] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [203, -567] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 1] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 0] in dimension 0 (overworld) while populating chunk [202, -567], causing cascading worldgen lag.
+[01:10:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:53] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 204 and chunkZ -561...
+[01:10:54] [Server thread/ERROR] [com.github.fnar.util.SafeRunnable]: com.github.fnar.roguelike.settings.exception.SettingsNotFoundException: No settings with id rlcraft:loot_Starter found.
+[01:10:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved too quickly! 9.96990971818559,-0.0435357031871888,1.2013841377611243
+[01:10:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Donita1 moved too quickly! 9.962709660538167,-0.630626397834547,-2.703449176824506
+[01:11:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[01:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[01:12:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[01:12:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[01:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS fell from a high place
+[01:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[01:13:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[01:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[01:14:50] [Server thread/WARN] [FML]: Quark loaded a new chunk [200, -544] in dimension 0 (overworld) while populating chunk [200, -545], causing cascading worldgen lag.
+[01:14:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:14:50] [Server thread/WARN] [FML]: Quark loaded a new chunk [201, -545] in dimension 0 (overworld) while populating chunk [200, -545], causing cascading worldgen lag.
+[01:14:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:14:50] [Server thread/WARN] [FML]: Quark loaded a new chunk [201, -544] in dimension 0 (overworld) while populating chunk [200, -545], causing cascading worldgen lag.
+[01:14:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.

@@ -1,0 +1,10 @@
+RLCraft_SmallUndergroundSkeleton,3070,3078,-8891,-8883
+RLCraft_BasicWitch,3144,3144,-8994,-8994
+RLCraft_UndergroundRuin1,3138,3147,-8997,-8988
+RLCraft_DecentSkeleton,3137,3137,-8822,-8822
+RLCraft_UndergroundRuin3,3132,3140,-8828,-8820
+StonePlantMound,3158,3163,-8935,-8930
+RLCraft_DecentZombie,3098,3098,-9093,-9093
+RLCraft_UndergroundRuin3,3096,3104,-9096,-9088
+ShrineSmallWater,3203,3211,-9142,-9134
+RLCraft_UndergroundFarm,3222,3264,-9076,-9033
