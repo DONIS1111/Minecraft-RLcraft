@@ -563,3 +563,47 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [02:04:30] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [113, -506], causing cascading worldgen lag.
 [02:04:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [02:04:36] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[02:07:19] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [139, -510] in dimension 0 (overworld) while populating chunk [140, -510], causing cascading worldgen lag.
+[02:07:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[02:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
+[02:08:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
+[02:09:41] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [121, -499] in dimension 0 (overworld) while populating chunk [122, -499], causing cascading worldgen lag.
+[02:09:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:41] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [116, -499] in dimension 0 (overworld) while populating chunk [117, -499], causing cascading worldgen lag.
+[02:09:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:09:41] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [115, -499] in dimension 0 (overworld) while populating chunk [117, -499], causing cascading worldgen lag.
+[02:09:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:10:36] [Server thread/INFO] [antiqueatlas]: Created new marker #44"gui.antiqueatlas.marker.tomb Donita1"@(1994, -8110)
+[02:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was turned into KFC by a dragon
+[02:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[02:10:44] [Server thread/INFO] [antiqueatlas]: Created new marker #105"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1953, -8138)
+[02:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was incinerated by a dragon
+[02:10:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:10:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:10:47] [Thread-271/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5f3199fd-6670-4090-b2bc-f7f58130ab00.
+[02:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[02:10:55] [Server thread/INFO] [antiqueatlas]: Created new marker #106"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1978, -8159)
+[02:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS was incinerated by a dragon
+[02:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[02:11:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:11:36] [Server thread/INFO] [antiqueatlas]: Created new marker #45"gui.antiqueatlas.marker.tomb Donita1"@(1989, -8257)
+[02:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was pummeled by Golden Spriggan  Lvl 3
+[02:11:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[02:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TRY_KIMS> zzzzzzzzzz
+[02:12:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TRY_KIMS> zzzzzzzzzzzz
+[02:12:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:16:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[02:18:19] [Server thread/INFO] [antiqueatlas]: Created new marker #46"gui.antiqueatlas.marker.tomb Donita1"@(2444, -8607)
+[02:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was incinerated by a dragon
+[02:18:20] [Thread-285/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 37023e91-faad-4e06-a200-e07907058232.
+[02:18:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died from hyperthermia
+[02:18:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[02:19:00] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[02:25:30] [Server thread/INFO] [antiqueatlas]: Created new marker #107"gui.antiqueatlas.marker.tomb TRY_KIMS"@(1505, -8659)
+[02:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS died
+[02:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Killed TRY_KIMS]
+[02:25:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[02:25:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]

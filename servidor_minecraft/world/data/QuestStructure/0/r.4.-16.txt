@@ -17,3 +17,5 @@ UndergroundTreeoid,2496,2519,-8579,-8553
 RLCraft_DecentSkeleton,2049,2049,-8320,-8320
 RLCraft_UndergroundRuin2,2044,2054,-8322,-8315
 StoneLeafMound,2216,2223,-8213,-8204
+StoneLeafMound,2249,2258,-8268,-8261
+StonePlantMound,2257,2262,-8219,-8214

@@ -199,8 +199,11 @@
 1812 120 -8229 1816 128 -8225 SmallWell.tml
 1819 72 -9043 1828 75 -9034 RuinedSmallFountainDiagonal.tml
 1836 86 -8619 1844 92 -8611 ShortTower.tml
+1843 76 -7984 1852 87 -7979 VanillaVillageChurch-r.tml
 1853 64 -8149 1860 68 -8142 TinyFarmField.tml
+1858 63 -8069 1872 76 -8055 TreeDungeon.tml
 1862 63 -8927 1873 74 -8916 SandTrap.tml
+1870 69 -7973 1877 76 -7966 Outcrop.tml
 1903 89 -8721 1918 97 -8712 Archway.tml
 1907 111 -8328 1915 117 -8320 LargeStoneHouse.tml
 1929 62 -8844 1933 70 -8840 SmallWell.tml
@@ -222,6 +225,7 @@
 2101 66 -8354 2105 68 -8350 EmeraldOreOutcrop.tml
 2106 51 -8846 2117 62 -8810 SunkenShip-v3.tml
 2114 44 -8951 2125 63 -8915 SunkenShip-v2.tml
+2134 69 -8025 2142 77 -8016 WoodHouse_Intact.tml
 2145 70 -8113 2151 76 -8104 PortalShrine.tml
 2149 65 -8628 2166 92 -8611 StoneHenge.tml
 2154 63 -8738 2162 73 -8730 LargeStoneHouseWBasement.tml
@@ -230,11 +234,15 @@
 2192 78 -8366 2196 86 -8362 SmallWell.tml
 2214 63 -8873 2244 103 -8842 CastleOcean.tml
 2231 135 -8698 2235 137 -8694 EmeraldOreOutcrop.tml
+2240 76 -8150 2248 86 -8142 TallTower.tml
+2263 70 -8228 2271 76 -8220 ShortTower.tml
 2274 93 -8581 2287 102 -8568 VolcanicVent.tml
 2275 55 -8340 2282 65 -8333 BridgePilings-sm2.tml
+2327 67 -8124 2332 72 -8118 VanillaVillageCobbleHouse-r.tml
 2328 91 -8459 2330 95 -8456 SkeletonHeadStatue.tml
 2332 92 -8694 2336 100 -8690 SmallWell.tml
 2347 61 -8327 2355 70 -8319 LargeStoneTwoStoryHouse.tml
+2364 117 -8218 2379 125 -8203 Mausoleum.tml
 2377 66 -8529 2382 70 -8524 CaveSpiderBurrow.tml
 2392 63 -8611 2400 69 -8603 LargeStoneHouse.tml
 2405 71 9974 2412 78 9981 Outcrop.tml

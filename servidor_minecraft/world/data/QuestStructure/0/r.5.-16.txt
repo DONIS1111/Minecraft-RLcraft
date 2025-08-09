@@ -8,3 +8,5 @@ RLCraft_BasicSkeleton,2844,2844,-8693,-8693
 RLCraft_UndergroundRuin1,2841,2850,-8696,-8687
 RLCraft_DecentWitch,2832,2832,-8659,-8659
 RLCraft_UndergroundRuin3,2830,2838,-8662,-8654
+RLCraft_DecentCaveSpider,2612,2612,-8494,-8494
+RLCraft_UndergroundRuin2,2607,2617,-8496,-8489
