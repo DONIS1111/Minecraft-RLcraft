@@ -607,3 +607,32 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [02:25:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
 [02:25:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [02:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
+[02:26:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
+[02:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Creative Mode]
+[02:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Set own game mode to Survival Mode]
+[02:28:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved too quickly! 0.9945736763257855,-13.898652771016025,2.9773467528448236
+[02:28:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:28:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Hippogryph moved wrongly!
+[02:31:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS lost connection: Disconnected
+[02:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TRY_KIMS left the game
+[02:31:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Donita1 lost connection: Disconnected
+[02:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 left the game
+[02:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:31:24] [Server thread/INFO] [AUW]: Stopping DS...
+[02:31:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:31:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:31:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:31:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:31:24] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (world) to config
+[02:31:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:31:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
