@@ -2,3 +2,9 @@ StonePlantMound,2596,2601,-8694,-8689
 RLCraft_DecentZombie,2682,2682,-8693,-8693
 RLCraft_UndergroundRuin3,2676,2684,-8698,-8690
 RLCraft_SmallUndergroundSkeleton,2707,2715,-8610,-8602
+P_Tent,3044,3053,-8657,-8648
+RLCraft_FriendlyOutpost,2838,2906,-8678,-8639
+RLCraft_BasicSkeleton,2844,2844,-8693,-8693
+RLCraft_UndergroundRuin1,2841,2850,-8696,-8687
+RLCraft_DecentWitch,2832,2832,-8659,-8659
+RLCraft_UndergroundRuin3,2830,2838,-8662,-8654

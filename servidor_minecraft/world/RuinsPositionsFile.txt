@@ -248,13 +248,17 @@
 2703 71 -8734 2713 77 -8726 VanillaVillageForge-r.tml
 2733 62 -8899 2741 68 -8891 LargeStoneHouse.tml
 2743 68 -8819 2748 71 -8812 PumpkinField.tml
+2821 70 -8644 2828 77 -8637 Outcrop.tml
 2828 63 -8842 2834 76 -8835 TP_FishingShack.tml
 2845 76 -8734 2851 82 -8725 PortalShrine.tml
 2859 47 -9032 2870 66 -8996 SunkenShip-v2.tml
+2879 67 -8568 2891 91 -8556 Tower-ruined-short.tml
 2916 50 -8899 2924 62 -8873 shipwreck.tml
+2924 69 -8646 2939 80 -8635 Barn-ruined.tml
 2947 63 -9072 2977 103 -9041 CastleOcean.tml
 3001 65 -8838 3005 67 -8834 EmeraldOreOutcrop.tml
 3023 104 -8736 3028 116 -8731 FrozenBush.tml
+3042 101 -8636 3048 107 -8630 SnowHouse3.tml
 3065 73 -8976 3076 78 -8969 SandstoneBld5_Intact.tml
 3077 102 -8852 3083 108 -8846 SnowHouse1.tml
 3106 107 -8730 3112 113 -8724 SnowHouse2.tml
