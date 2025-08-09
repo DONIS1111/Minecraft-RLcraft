@@ -1,0 +1,2 @@
+RLCraft_AgentStarbuck_WaterBase,2089,2106,-8852,-8840
+ShrineSmallAir,2100,2108,-8863,-8855

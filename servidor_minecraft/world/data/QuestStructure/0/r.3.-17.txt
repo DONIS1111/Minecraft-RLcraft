@@ -5,3 +5,12 @@ StonePlantMound2,1571,1583,-8761,-8748
 StoneLeafMound,1617,1624,-8711,-8702
 P_SkyCastle,1564,1605,-8801,-8760
 ShrineSmallEarth,1606,1618,-8825,-8813
+StonePlantMound,1586,1591,-8841,-8836
+DesertHut,1769,1779,-8854,-8845
+BlazeSpawnerCrystal,1853,1859,-8798,-8792
+RLCraft_SmallUndergroundSkeleton,1861,1869,-8919,-8911
+RLCraft_DecentZombie,1896,1896,-8933,-8933
+RLCraft_UndergroundRuin3,1890,1898,-8936,-8928
+ShrineSmallFire,1604,1614,-9005,-8995
+RLCraft_BasicSkeleton,2021,2021,-8787,-8787
+RLCraft_UndergroundRuin1,2018,2027,-8790,-8781

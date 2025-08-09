@@ -236,3 +236,5 @@ StonePlantMound3,1087,1096,-8967,-8956
 StoneBoulder,1106,1115,-8993,-8984
 StoneLeafMound,1220,1229,-8951,-8944
 StonePlantMound4,1166,1173,-8979,-8972
+RLCraft_DecentZombie,1386,1386,-8866,-8866
+RLCraft_UndergroundRuin3,1384,1392,-8871,-8863

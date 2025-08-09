@@ -428,6 +428,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "desert_defiled": "2025-08-09 00:42:36 +0000",
       "swamp_defiled": "2025-08-04 05:03:29 +0000"
     },
     "done": false
@@ -1525,6 +1526,7 @@
       "birch_forest": "2025-08-04 01:12:00 +0000",
       "deep_ocean": "2025-08-04 01:10:35 +0000",
       "beaches": "2025-08-04 05:54:45 +0000",
+      "extreme_hills_with_trees": "2025-08-09 00:40:09 +0000",
       "forest_hills": "2025-08-04 19:25:03 +0000",
       "ocean": "2025-08-04 19:23:17 +0000",
       "extreme_hills": "2025-08-04 17:37:02 +0000",

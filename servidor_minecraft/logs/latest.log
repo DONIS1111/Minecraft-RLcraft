@@ -13,3 +13,56 @@
 [00:33:40] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [00:33:40] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [00:33:40] [Server thread/INFO] [Meson ASM]: Patch result: true
+[00:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[00:38:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of TRY_KIMS) moved too quickly! 7.31105276323774,0.0,-7.112915405341482
+[00:38:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of TRY_KIMS) moved too quickly! 7.676708730041582,0.0,-7.226036941463462
+[00:38:58] [Server thread/WARN] [FML]: Doomlike Dungeons loaded a new chunk [93, -555] in dimension 0 (overworld) while populating chunk [93, -554], causing cascading worldgen lag.
+[00:38:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:39:16] [Server thread/WARN] [FML]: Quark loaded a new chunk [95, -554] in dimension 0 (overworld) while populating chunk [94, -554], causing cascading worldgen lag.
+[00:39:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:02] [Server thread/WARN] [FML]: Quark loaded a new chunk [98, -552] in dimension 0 (overworld) while populating chunk [97, -553], causing cascading worldgen lag.
+[00:40:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [104, -558] in dimension 0 (overworld) while populating chunk [105, -559], causing cascading worldgen lag.
+[00:40:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [103, -558] in dimension 0 (overworld) while populating chunk [105, -559], causing cascading worldgen lag.
+[00:40:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [104, -559] in dimension 0 (overworld) while populating chunk [105, -559], causing cascading worldgen lag.
+[00:40:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:41:31] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[00:41:31] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[00:41:31] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[00:41:31] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[00:41:31] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[00:41:31] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[00:41:31] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[00:41:31] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=1784, y=47, z=-8904}
+[00:41:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [96, -559] in dimension 0 (overworld) while populating chunk [97, -560], causing cascading worldgen lag.
+[00:41:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:41:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [96, -560] in dimension 0 (overworld) while populating chunk [97, -560], causing cascading worldgen lag.
+[00:41:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:41:46] [Server thread/WARN] [FML]: Quark loaded a new chunk [114, -540] in dimension 0 (overworld) while populating chunk [114, -541], causing cascading worldgen lag.
+[00:41:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:42:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [117, -561] in dimension 0 (overworld) while populating chunk [117, -560], causing cascading worldgen lag.
+[00:42:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:42:16] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[00:42:16] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[00:42:16] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[00:42:16] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[00:42:16] [Server thread/INFO] [Meson ASM]: Patch result: true
+[00:42:17] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 102 and chunkZ -561...
+[00:42:18] [Server thread/ERROR] [com.github.fnar.util.SafeRunnable]: com.github.fnar.roguelike.settings.exception.SettingsNotFoundException: No settings with id rlcraft:loot_Starter found.
+[00:42:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TRY_KIMS moved too quickly! -8.221540326416289,-1.4813402975480017,-6.469208590975541
+[00:42:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [99, -563] in dimension 0 (overworld) while populating chunk [100, -563], causing cascading worldgen lag.
+[00:42:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:42:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [113, -566] in dimension 0 (overworld) while populating chunk [113, -565], causing cascading worldgen lag.
+[00:42:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:42:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [120, -547] in dimension 0 (overworld) while populating chunk [120, -548], causing cascading worldgen lag.
+[00:42:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:42:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [121, -547] in dimension 0 (overworld) while populating chunk [120, -545], causing cascading worldgen lag.
+[00:42:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:06] [Server thread/WARN] [FML]: Quark loaded a new chunk [125, -562] in dimension 0 (overworld) while populating chunk [125, -563], causing cascading worldgen lag.
+[00:43:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:50] [Server thread/WARN] [FML]: Quark loaded a new chunk [137, -560] in dimension 0 (overworld) while populating chunk [136, -560], causing cascading worldgen lag.
+[00:43:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:50] [Server thread/WARN] [FML]: Quark loaded a new chunk [137, -559] in dimension 0 (overworld) while populating chunk [136, -560], causing cascading worldgen lag.
+[00:43:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
