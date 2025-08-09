@@ -497,3 +497,4 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [01:45:15] [Server thread/INFO] [antiqueatlas]: Created new marker #43"gui.antiqueatlas.marker.tomb Donita1"@(882, -8437)
 [01:45:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Donita1 was slain by TRY_KIMS
 [01:45:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:49:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]

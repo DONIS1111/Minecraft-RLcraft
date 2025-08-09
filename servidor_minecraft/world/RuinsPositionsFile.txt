@@ -165,6 +165,7 @@
 1390 70 -8409 1393 74 -8407 SkeletonHeadStatue.tml
 1398 62 -8809 1406 69 -8800 WoodHouse_Ruined.tml
 1399 61 -8325 1406 65 -8318 TinyFarmField.tml
+1410 69 -8926 1418 78 -8918 LargeStoneTwoStoryHouse.tml
 1416 67 -8505 1424 76 -8497 LargeStoneTwoStoryHouse.tml
 1424 101 -8711 1428 103 -8707 EmeraldOreOutcrop.tml
 1473 74 -8357 1481 80 -8349 ShortTower.tml
